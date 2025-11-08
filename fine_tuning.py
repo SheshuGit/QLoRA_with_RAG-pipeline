@@ -1,17 +1,24 @@
-# fine_tuning.py
 """
-Fine-tuning script for FLAN-T5 style seq2seq models.
-- Provides a safe QLoRA path when CUDA + bitsandbytes are available.
-- Falls back to regular float32 fine-tune on CPU (or no bnb).
-- Ensures tokenizer produces input_ids/attention_mask and labels for seq2seq training.
+Fine-tuning script for FLAN-T5 (seq2seq) models with optional QLoRA.
+Now supports both training and validation datasets.
+
+Requirements:
+    - data/rag_train.json
+    - data/rag_val.json
+Both containing:
+    {"question": "...", "context": "...", "answer": "..."}
+
+The script:
+    ✅ Loads both datasets
+    ✅ Prepares seq2seq tokens
+    ✅ Fine-tunes with validation monitoring
+    ✅ Saves model to models/finetuned/
 """
 
 import os
 import json
 from pathlib import Path
-from typing import Dict
 import torch
-
 from datasets import Dataset
 from transformers import (
     AutoTokenizer,
@@ -22,90 +29,69 @@ from transformers import (
 )
 from config import Config
 
-# Optional imports for QLoRA
+# Optional: QLoRA imports
 try:
     from transformers import BitsAndBytesConfig
-    from peft import (
-        LoraConfig,
-        get_peft_model,
-        prepare_model_for_kbit_training
-    )
+    from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
     BNB_AVAILABLE = True
 except Exception:
     BNB_AVAILABLE = False
 
 
-def load_training_data(data_dir: str) -> Dataset:
-    """
-    Expects data_dir/rag_train.json with a list of objects:
-    {"question": "...", "context": "...", "answer": "..."}
-    Returns a HuggingFace Dataset with columns: input_text, target_text
-    """
-    path = os.path.join(data_dir, "rag_train.json")
+# -----------------------------------------------------------
+# 1️⃣ Load and Prepare Datasets
+# -----------------------------------------------------------
+def load_json_dataset(path: str) -> Dataset:
+    """Load question-context-answer JSON file and return as HuggingFace Dataset."""
     if not os.path.exists(path):
-        raise FileNotFoundError(f"rag_train.json not found at {path}")
+        raise FileNotFoundError(f"Dataset not found: {path}")
 
     with open(path, "r", encoding="utf-8") as f:
-        raw = json.load(f)
+        data = json.load(f)
 
-    rows = []
-    for item in raw:
-        q = item.get("question", "").strip()
-        c = item.get("context", "").strip()
-        a = item.get("answer", "").strip()
+    records = []
+    for item in data:
+        q, c, a = item.get("question", "").strip(), item.get("context", "").strip(), item.get("answer", "").strip()
         if not q or not a:
             continue
-        # Input is question + context (context can be empty)
-        if c:
-            inp = f"Question: {q}\nContext: {c}"
-        else:
-            inp = f"Question: {q}"
-        rows.append({"input_text": inp, "target_text": a})
+        inp = f"Question: {q}\nContext: {c}" if c else f"Question: {q}"
+        records.append({"input_text": inp, "target_text": a})
 
-    print(f"Loaded {len(rows)} training samples from {path}")
-    return Dataset.from_list(rows)
+    print(f"✅ Loaded {len(records)} samples from {path}")
+    return Dataset.from_list(records)
 
 
-def prepare_tokenized_datasets(dataset: Dataset, tokenizer: AutoTokenizer, max_input_length=512, max_target_length=128):
-    """Tokenize and return tokenized dataset with labels prepared for seq2seq."""
-    def _tokenize(batch: Dict):
-        inputs = tokenizer(
-            batch["input_text"],
-            max_length=max_input_length,
+def tokenize_dataset(dataset: Dataset, tokenizer: AutoTokenizer, max_input_len=512, max_target_len=128):
+    """Tokenize dataset for seq2seq model."""
+    def preprocess(example):
+        model_inputs = tokenizer(
+            example["input_text"],
+            max_length=max_input_len,
             truncation=True,
             padding="max_length"
         )
-        targets = tokenizer(
-            batch["target_text"],
-            max_length=max_target_length,
+        labels = tokenizer(
+            example["target_text"],
+            max_length=max_target_len,
             truncation=True,
             padding="max_length"
-        )
+        )["input_ids"]
+        pad_token_id = tokenizer.pad_token_id or tokenizer.eos_token_id
+        labels = [(t if t != pad_token_id else -100) for t in labels]
+        model_inputs["labels"] = labels
+        return model_inputs
 
-        # For seq2seq models we set labels to target input_ids, and replace pad token id by -100
-        labels = targets["input_ids"]
-        pad_token_id = tokenizer.pad_token_id if tokenizer.pad_token_id is not None else tokenizer.eos_token_id
-        labels = [[(t if t != pad_token_id else -100) for t in label] for label in labels]
-
-        return {
-            "input_ids": inputs["input_ids"],
-            "attention_mask": inputs["attention_mask"],
-            "labels": labels
-        }
-
-    tokenized = dataset.map(_tokenize, batched=True, remove_columns=["input_text", "target_text"])
-    return tokenized
+    return dataset.map(preprocess, batched=True, remove_columns=["input_text", "target_text"])
 
 
-def setup_model_and_peft(model_name: str, use_bnb: bool, device: str):
-    """
-    Load seq2seq model. If use_bnb is True and environment supports it, load with BitsAndBytes (QLoRA).
-    Otherwise, load normal float32 model.
-    Returns (model, using_peft_flag)
-    """
-    if use_bnb and BNB_AVAILABLE and device.startswith("cuda"):
-        print("Attempting to load model with QLoRA (4-bit) + LoRA adapters...")
-        # bitsandbytes quantization config
+# -----------------------------------------------------------
+# 2️⃣ Load Model (with optional QLoRA)
+# -----------------------------------------------------------
+def setup_model(model_name: str, use_qlora: bool, device: str):
+    """Load model with QLoRA if available, else standard seq2seq."""
+    if use_qlora and BNB_AVAILABLE and device.startswith("cuda"):
+        print("🧠 Loading with QLoRA (4-bit quantization)...")
+
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
             bnb_4bit_quant_type="nf4",
@@ -116,102 +102,94 @@ def setup_model_and_peft(model_name: str, use_bnb: bool, device: str):
         model = AutoModelForSeq2SeqLM.from_pretrained(
             model_name,
             quantization_config=bnb_config,
-            device_map="auto",
-            trust_remote_code=True
+            device_map="auto"
         )
 
-        # LoRA config for seq2seq
-        lora_cfg = LoraConfig(
+        lora_config = LoraConfig(
             r=16,
             lora_alpha=32,
             target_modules=["q", "v"],
             lora_dropout=0.05,
             bias="none",
-            task_type="SEQ_2_SEQ_LM",
+            task_type="SEQ_2_SEQ_LM"
         )
 
         model = prepare_model_for_kbit_training(model)
-        model = get_peft_model(model, lora_cfg)
-        print("✅ QLoRA + LoRA adapters loaded.")
+        model = get_peft_model(model, lora_config)
         model.print_trainable_parameters()
-        return model, True
+        print("✅ QLoRA setup complete.")
+        return model
     else:
-        if use_bnb and not BNB_AVAILABLE:
-            print("⚠ bitsandbytes/peft not available — falling back to standard model load.")
-        if device.startswith("cuda"):
-            print("Loading model in float16 on GPU (no QLoRA).")
-            dtype = torch.float16
-        else:
-            print("Loading model in float32 (CPU or no GPU).")
-            dtype = torch.float32
-
-        model = AutoModelForSeq2SeqLM.from_pretrained(
-            model_name,
-            torch_dtype=dtype,
-            device_map="auto" if device.startswith("cuda") else None
-        )
-        return model, False
+        dtype = torch.float16 if device.startswith("cuda") else torch.float32
+        print("🧩 Loading model in standard mode...")
+        return AutoModelForSeq2SeqLM.from_pretrained(model_name, torch_dtype=dtype, device_map="auto")
 
 
+# -----------------------------------------------------------
+# 3️⃣ Fine-tuning Pipeline
+# -----------------------------------------------------------
 def fine_tune():
     config = Config()
-
-    # Create dirs
     Path(config.MODELS_DIR).mkdir(parents=True, exist_ok=True)
-
-    # Device
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Device: {device}")
 
     # Load tokenizer
     tokenizer = AutoTokenizer.from_pretrained(config.MODEL_NAME)
-    # T5 needs pad token set
     if tokenizer.pad_token is None:
         tokenizer.add_special_tokens({"pad_token": tokenizer.eos_token})
     tokenizer.pad_token = tokenizer.pad_token or tokenizer.eos_token
 
-    # Load dataset
-    raw_ds = load_training_data(config.DATA_DIR)
+    # Load datasets
+    train_path = os.path.join(config.DATA_DIR, "rag_train.json")
+    val_path = os.path.join(config.DATA_DIR, "rag_val.json")
 
-    # Prepare dataset for seq2seq
-    tokenized_ds = prepare_tokenized_datasets(raw_ds, tokenizer,
-                                              max_input_length=config.MAX_INPUT_LEN if hasattr(config, "MAX_INPUT_LEN") else 512,
-                                              max_target_length=config.MAX_TARGET_LEN if hasattr(config, "MAX_TARGET_LEN") else 128)
+    train_ds = load_json_dataset(train_path)
+    val_ds = load_json_dataset(val_path)
 
-    # Load model (QLoRA if possible and requested)
-    want_bnb = getattr(config, "USE_Q_LORA", True)
-    model, used_peft = setup_model_and_peft(config.MODEL_NAME, use_bnb=want_bnb, device=device)
+    tokenized_train = tokenize_dataset(train_ds, tokenizer)
+    tokenized_val = tokenize_dataset(val_ds, tokenizer)
 
-    # Data collator (handles dynamic padding and labels)
+    # Load model
+    model = setup_model(config.MODEL_NAME, getattr(config, "USE_Q_LORA", True), device)
+
+    # Collator
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model, padding="longest", return_tensors="pt")
 
-    # Training arguments - adjust for your machine
+    # Training arguments
     output_dir = os.path.join(config.MODELS_DIR, "finetuned")
     training_args = TrainingArguments(
         output_dir=output_dir,
-        per_device_train_batch_size= config.BATCH_SIZE if hasattr(config, "BATCH_SIZE") else (8 if device == "cuda" else 4),
-        gradient_accumulation_steps= getattr(config, "GRAD_ACC", 1),
-        num_train_epochs= getattr(config, "EPOCHS", 3),
-        logging_steps=50,
-        save_strategy="no",
-        learning_rate= getattr(config, "LEARNING_RATE", 2e-4),
-        fp16=(device=="cuda"),
-        push_to_hub=False,
+        num_train_epochs=getattr(config, "EPOCHS", 3),
+        per_device_train_batch_size=getattr(config, "BATCH_SIZE", 4),
+        gradient_accumulation_steps=getattr(config, "GRAD_ACC", 1),
+        evaluation_strategy="epoch",
+        save_strategy="epoch",
+        save_total_limit=2,
+        learning_rate=getattr(config, "LEARNING_RATE", 2e-4),
+        logging_steps=20,
+        load_best_model_at_end=True,
         report_to="none",
+        fp16=device == "cuda",
+        metric_for_best_model="eval_loss",
+        greater_is_better=False
     )
 
+    # Trainer setup
     trainer = Trainer(
         model=model,
         args=training_args,
-        train_dataset=tokenized_ds,
-        data_collator=data_collator
+        train_dataset=tokenized_train,
+        eval_dataset=tokenized_val,
+        data_collator=data_collator,
+        tokenizer=tokenizer,
     )
 
-    print("🚀 Starting training. This may take some time...")
+    print("🚀 Starting fine-tuning with validation monitoring...")
     trainer.train()
-    print("✅ Training finished. Saving model...")
+    print("✅ Fine-tuning complete.")
 
-    # Save model + tokenizer
+    # Save best model
     trainer.save_model(output_dir)
     tokenizer.save_pretrained(output_dir)
     print(f"✅ Model and tokenizer saved to {output_dir}")
