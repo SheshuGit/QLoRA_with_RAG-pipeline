@@ -1,0 +1,1387 @@
+[
+  {
+    "question": "What did Jensen Huang cite as the reason for leaving LSI to become the new startup's CEO?",
+    "context": "The three co-founders discussed a vision of the future which was so compelling that Huang decided to leave LSI  and become the chief executive officer of their new startup. ",
+    "answer": "A compelling vision of the future discussed with the co-founders "
+  },
+  {
+    "question": "What was the name of the new data center being constructed in Virginia in October 2025 that was to be the first commercial application of AI-developed software to adjust power grid energy draw?",
+    "context": "Dubbed \"Aurora\", the facility is expected to set a new flexible power standard. ",
+    "answer": "\"Aurora\" "
+  },
+  {
+    "question": "How did Nvidia's market capitalization on July 10, 2025, compare to the combined value of all publicly traded companies in the United Kingdom?",
+    "context": "At that point, Nvidia was worth more than the combined value of all publicly traded companies in the United Kingdom. ",
+    "answer": "Nvidia was worth more than the combined value of all publicly traded companies in the United Kingdom. "
+  },
+  {
+    "question": "What memory type did the GTX 1080 and GTX 1070 use, respectively?",
+    "context": "The models incorporate GDDR5X and GDDR5 memory respectively, and use a 16 nm manufacturing process. ",
+    "answer": "GDDR5X (GTX 1080) and GDDR5 (GTX 1070) "
+  },
+  {
+    "question": "What was the name of the software development kit offered by Nvidia for deep learning?",
+    "context": "Nvidia also offers its own Nvidia Deep Learning software development kit. ",
+    "answer": "Nvidia Deep Learning software development kit "
+  },
+  {
+    "question": "What was the refund amount Nvidia offered in the class action lawsuit settlement for the GTX 970's false advertising?",
+    "context": "On July 27, 2016, Nvidia agreed to a preliminary settlement of the U.S. class action lawsuit,  offering a \\$30 refund on GTX 970 purchases. ",
+    "answer": "\\$30 refund on GTX 970 purchases "
+  },
+  {
+    "question": "What was the purpose of the new headquarters building Voyager, opened in May 2022?",
+    "context": "In May 2022, Nvidia opened Voyager, the second of the two giant buildings at its new headquarters complex to the west of the old one.  *Note: The text does not specify the purpose, only that it is a new headquarters building.*",
+    "answer": "The second of the two giant buildings at its new headquarters complex. "
+  },
+  {
+    "question": "What was the amount of the civil charges settlement Nvidia agreed to pay the SEC regarding improper disclosures about cryptomining?",
+    "context": "Nvidia, which did not admit or deny the findings, has agreed to pay \\$5.5 million to settle civil charges, according to a statement made by the SEC in May 2022. ",
+    "answer": "\\$5.5 million "
+  },
+  {
+    "question": "Who broke the deadlock among the founders by resigning first, and when was his resignation effective?",
+    "context": "Priem broke that deadlock by resigning first from Sun, effective December 31, 1992. ",
+    "answer": "Curtis Priem, effective December 31, 1992 "
+  },
+  {
+    "question": "What did the co-founders envision as the best trajectory for tackling challenges that had eluded general-purpose computing methods?",
+    "context": "The three co-founders envisioned graphics-based processing as the best trajectory for tackling challenges that had eluded general-purpose computing methods. ",
+    "answer": "Graphics-based processing "
+  },
+  {
+    "question": "What was the problem with the NV1's design that set it apart from competitors?",
+    "context": "Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives (forward texture mapping), a feature that set it apart from competitors, who preferred triangle primitives. ",
+    "answer": "It was designed to process quadrilateral primitives, while competitors preferred triangle primitives. "
+  },
+  {
+    "question": "What country accounted for the second-largest share of Nvidia's sales in 2023?",
+    "context": "Taiwan 13.4 22.0% ",
+    "answer": "Taiwan (22.0%) "
+  },
+  {
+    "question": "Where was Nvidia ranked on Forbes' \"Best Places to Work\" list in 2024?",
+    "context": "Nvidia was ranked #3 on Forbes' \"Best Places to Work\" list in 2024. ",
+    "answer": "#3 "
+  },
+  {
+    "question": "What two core areas did Huang say the Cambridge-1 supercomputer would serve as a hub of innovation for the UK?",
+    "context": "According to Jensen Huang, \"The Cambridge-1 supercomputer will serve as a hub of innovation for the UK, and further the groundbreaking work being done by the nation's researchers in critical healthcare and drug discovery.\" ",
+    "answer": "Critical healthcare and drug discovery "
+  },
+  {
+    "question": "What three companies did the French Competition Authority investigate for suspected anti-competitive practices in the graphics card sector in September 2023?",
+    "context": "The raid, authorized by a judge, was part of an investigation into suspected anti-competitive practices in the graphics card sector.  *Note: While the text only names Nvidia as having its offices searched, the investigation was into the sector. The source context implies that the investigation's target was the 'graphics card sector'.*",
+    "answer": "The investigation was into suspected anti-competitive practices in the graphics card sector.  (The document explicitly names only Nvidia's French offices being searched.)"
+  },
+  {
+    "question": "What did Nvidia's acquisition of Mellanox Technologies substantially expand its footprint in?",
+    "context": "On March 11, 2019, Nvidia announced a deal to buy Mellanox Technologies for \\$6.9 billion  to substantially expand its footprint in the high-performance computing market. ",
+    "answer": "The high-performance computing market "
+  },
+  {
+    "question": "What did the antitrust investigation follow an open letter about from OpenAI employees?",
+    "context": "This development followed an open letter from OpenAl employees expressing concerns about the rapid Al advancements and lack of oversight. ",
+    "answer": "Concerns about the rapid AI advancements and lack of oversight "
+  },
+  {
+    "question": "Which pioneer in consumer 3D graphics technology did Nvidia acquire the intellectual assets of in December 2000?",
+    "context": "In December 2000, Nvidia reached an agreement to acquire the intellectual assets of its one-time rival 3dfx, a pioneer in consumer 3D graphics technology leading the field from the mid-1990s until 2000. ",
+    "answer": "3dfx "
+  },
+  {
+    "question": "Which three suppliers did Nvidia direct to suspend work on the China-focused H20 processor in August 2025?",
+    "context": "The company directed suppliers including Taiwan Semiconductor Manufacturing Company, Samsung Electronics, and Amkor Technology to suspend work on the China-focused processor. ",
+    "answer": "Taiwan Semiconductor Manufacturing Company (TSMC), Samsung Electronics, and Amkor Technology "
+  },
+  {
+    "question": "Which game console contract earned Nvidia a \\$200 million advance from Microsoft?",
+    "context": "Due to the success of its products, Nvidia won the contract to develop the graphics hardware for Microsoft's Xbox game console, which earned Nvidia a \\$200 million advance. ",
+    "answer": "Microsoft's Xbox game console "
+  },
+  {
+    "question": "What was the main criticism made by the SEC regarding Nvidia's cryptomining disclosures?",
+    "context": "Those omissions misled investors and analysts who were interested in understanding the impact of cryptomining on Nvidia's business, the SEC emphasized. ",
+    "answer": "The omissions misled investors and analysts interested in the impact of cryptomining on Nvidia's business. "
+  },
+  {
+    "question": "What did Nvidia claim about the new RTX Studio laptops announced in May 2019 compared to a top-end MacBook Pro?",
+    "context": "The creators say that the new laptop is going to be seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro. ",
+    "answer": "The new laptop is seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro. "
+  },
+  {
+    "question": "How many employees did Nvidia have in the fiscal year 2025?",
+    "context": "2025 130,497 72,880 36,000 ",
+    "answer": "36,000 "
+  },
+  {
+    "question": "On what date did Nvidia become the third company in US history to close with a market capitalization over \\$2 trillion?",
+    "context": "On March 1, 2024, Nvidia became the third company in the history of the United States to close with a market capitalization in excess of \\$2 trillion. ",
+    "answer": "March 1, 2024 "
+  },
+  {
+    "question": "What does GTC stand for in the context of Nvidia's technical conferences?",
+    "context": "Nvidia's GPU Technology Conference (GTC) is a series of technical conferences held around the world. ",
+    "answer": "GPU Technology Conference "
+  },
+  {
+    "question": "Who is the largest shareholder of Nvidia as of early 2024?",
+    "context": "The 10 largest shareholders of Nvidia in early 2024 were:  The Vanguard Group (8.280%) ",
+    "answer": "The Vanguard Group (8.280%) "
+  },
+  {
+    "question": "How did the problem with the GeForce GTX 970's hardware specifications become apparent to users?",
+    "context": "Issues with the GeForce GTX 970's specifications were first brought up by users when they found out that the cards, while featuring 4 GB of memory, rarely accessed memory over the 3.5 GB boundary. ",
+    "answer": "Users found that the cards, despite having 4 GB of memory, rarely accessed memory over the 3.5 GB boundary. "
+  },
+  {
+    "question": "Which gaming console project did Nvidia abandon after a year of work, receiving a $5 million investment from the console's president?",
+    "context": "Nvidia had also entered into a partnership with Sega to supply the graphics chip for the Dreamcast console and worked on the project for about a year.  ... Sega's president, Shoichiro Irimajiri... persuaded Sega's management to invest \\$5 million into the company. ",
+    "answer": "Sega Dreamcast "
+  },
+  {
+    "question": "What components are expected to feature in the Bet Yehoshua server farm, in addition to VAST's data infrastructure?",
+    "context": "It is expected to feature \"tens of petabytes of data infrastructure powered by VAST, along with thousands of Nvidia Blackwell GPUs and Nvidia network processors.\" ",
+    "answer": "Thousands of Nvidia Blackwell GPUs and Nvidia network processors "
+  },
+  {
+    "question": "What was the size of the flagship version of Nvidia's NVLM 1.0 multimodal large language model, introduced in October 2024?",
+    "context": "Nvidia introduced a family of open-source multimodal large language models called NVLM 1.0, which features a flagship version with 72 billion parameters, designed to improve text-only performance after multimodal training. ",
+    "answer": "72 billion parameters "
+  },
+  {
+    "question": "What percentage of Nvidia's sales came from the Graphics business unit in 2023?",
+    "context": "Graphics 13.5 22.2% ",
+    "answer": "22.2% "
+  },
+  {
+    "question": "What was the estimated value of the Bet Yehoshua server farm project announced in October 2025?",
+    "context": "Reports indicate that approximately \\$30 billion has been secured for the Bet Yehoshua server farm. ",
+    "answer": "Approximately \\$30 billion "
+  },
+  {
+    "question": "What did the Nvidia DGX-1 supercomputer gifted to OpenAI help with?",
+    "context": "Nvidia gifted its first DGX-1 to OpenAl in August 2016 to help it train larger and more complex Al models with the capability of reducing processing time from six days to two hours. ",
+    "answer": "To train larger and more complex AI models with the capability of reducing processing time from six days to two hours. "
+  },
+  {
+    "question": "What financial group is Nvidia a part of, often cited for its strength, size, and market capitalization?",
+    "context": "For its strength, size and market capitalization, Nvidia has been selected to be one of Bloomberg's \"Magnificent Seven\", the seven biggest companies on the stock market in these regards. ",
+    "answer": "Bloomberg's \"Magnificent Seven\" "
+  },
+  {
+    "question": "How many registrants did GTC 2020 draw when it was converted to a digital event?",
+    "context": "GTC 2020 was converted to a digital event and drew roughly 59,000 registrants. ",
+    "answer": "Roughly 59,000 registrants "
+  },
+  {
+    "question": "What is the purpose of DGX, Nvidia's line of supercomputers?",
+    "context": "DGX is a line of supercomputers by Nvidia.  In April 2016, Nvidia produced the DGX-1 based on an 8 GPU cluster, to improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. ",
+    "answer": "To improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. "
+  },
+  {
+    "question": "What open-source foundation model for humanoid robots did Nvidia announce in 2025?",
+    "context": "In 2025, Nvidia announced Isaac GROOT N1, an open-source foundation model \"designed to expedite the development and capabilities of humanoid robots\". ",
+    "answer": "Isaac GROOT N1 "
+  },
+  {
+    "question": "What were the first-generation GPUs of the Nvidia RTX series that were officially released in September 2018?",
+    "context": "Nvidia officially released the RTX 2080 GPUs on September 27, 2018. ",
+    "answer": "RTX 2080 GPUs (part of the RTX 20 series) "
+  },
+  {
+    "question": "What did Trend Micro and Nvidia partner on in June 2024 to protect data centers?",
+    "context": "In June 2024, Trend Micro announced a partnership with Nvidia to develop Al-driven security tools, notably to protect the data centers where Al workloads are processed. ",
+    "answer": "Developing AI-driven security tools, notably to protect the data centers where AI workloads are processed. "
+  },
+  {
+    "question": "Who ordered companies, including ByteDance and Alibaba, not to purchase the RTX Pro 6000D graphics chip in September 2025?",
+    "context": "The Cyberspace Administration of China (CAC) ordered companies including TikTok parent company ByteDance and Alibaba not to purchase the RTX Pro 6000D, a graphics chip made specifically for the Chinese market. ",
+    "answer": "The Cyberspace Administration of China (CAC) "
+  },
+  {
+    "question": "Which company supplying third-party southbridge parts to ATI was acquired by Nvidia in December 2005?",
+    "context": "On December 14, 2005, Nvidia acquired ULI Electronics, which at the time supplied third-party southbridge parts for chipsets to ATI, Nvidia's competitor. ",
+    "answer": "ULI Electronics "
+  },
+  {
+    "question": "What is the name of the new hardware feature in the Pascal architecture designed to improve multi-monitor and VR rendering?",
+    "context": "The architecture also supports a new hardware feature known as simultaneous multi-projection (SMP), which is designed to improve the quality of multi-monitor and virtual reality (VR) rendering. ",
+    "answer": "Simultaneous multi-projection (SMP) "
+  },
+  {
+    "question": "Which Chinese search giant did Nvidia announce a far-reaching AI partnership with in July 2017?",
+    "context": "In July 2017, Nvidia and Chinese search giant Baidu announced a far-reaching Al partnership that includes cloud computing, autonomous driving, consumer devices, and Baidu's open-source Al framework PaddlePaddle. ",
+    "answer": "Baidu "
+  },
+  {
+    "question": "What was the amount of the civil charges settlement Nvidia agreed to pay the SEC regarding improper disclosures about cryptomining?",
+    "context": "Nvidia, which did not admit or deny the findings, has agreed to pay \\$5.5 million to settle civil charges, according to a statement made by the SEC in May 2022. ",
+    "answer": "\\$5.5 million "
+  },
+  {
+    "question": "What did the cyberattack in March 2022 reportedly compromise?",
+    "context": "That same month [March 2022], Nvidia was reportedly compromised by a cyberattack. ",
+    "answer": "Nvidia was reportedly compromised by a cyberattack. "
+  },
+  {
+    "question": "What was the H20 AI chip designed to comply with?",
+    "context": "The H20 was developed in late 2023 specifically for the Chinese market to comply with U.S. export restrictions... ",
+    "answer": "U.S. export restrictions "
+  },
+  {
+    "question": "What was the main criticism made by the SEC regarding Nvidia's cryptomining disclosures?",
+    "context": "Those omissions misled investors and analysts who were interested in understanding the impact of cryptomining on Nvidia's business, the SEC emphasized. ",
+    "answer": "The omissions misled investors and analysts interested in the impact of cryptomining on Nvidia's business. "
+  },
+  {
+    "question": "What did Nvidia announce in October 2023 that they had quietly begun designing?",
+    "context": "In October 2023, it was reported that Nvidia had quietly begun designing ARM-based central processing units (CPUs) for Microsoft's Windows operating system with a target to start selling them in 2025. ",
+    "answer": "ARM-based central processing units (CPUs) for Microsoft's Windows operating system "
+  },
+  {
+    "question": "What did the GTX 1080 and 1070 GPUs incorporate in terms of memory, respectively?",
+    "context": "The models incorporate GDDR5X and GDDR5 memory respectively, and use a 16 nm manufacturing process. ",
+    "answer": "GDDR5X (GTX 1080) and GDDR5 (GTX 1070) "
+  },
+  {
+    "question": "What did the probes into Nvidia, Microsoft and OpenAI in June 2024 center on?",
+    "context": "The probes centered on the companies' conduct rather than mergers. ",
+    "answer": "The companies' conduct rather than mergers "
+  },
+  {
+    "question": "What was the growth in sales for Nvidia in Q2 of 2020 compared to the same period in 2019?",
+    "context": "For the Q2 of 2020, Nvidia reported sales of \\$3.87 billion, which was a 50% rise from the same period in 2019. ",
+    "answer": "50% rise (sales of \\$3.87 billion) "
+  },
+  {
+    "question": "What is the primary function of the `BlueField` product family?",
+    "context": "BlueField, a range of data processing units, initially inherited from their acquisition of Mellanox Technologies ",
+    "answer": "A range of data processing units (DPUs) "
+  },
+  {
+    "question": "Which two Chinese tech firms were cited as having strong demand for the H20 chips, leading to substantial orders from TSMC in July 2025?",
+    "context": "Prior to the production halt, Nvidia had placed substantial orders for the H20, including 300,000 units from TSMC in July 2025, driven by strong demand from Chinese technology companies like Tencent and Alibaba. ",
+    "answer": "Tencent and Alibaba "
+  },
+  {
+    "question": "What is the name of Nvidia's next-generation automotive-grade chip announced in September 2022?",
+    "context": "In September 2022, Nvidia announced its next-generation automotive-grade chip, Drive Thor. ",
+    "answer": "Drive Thor "
+  },
+  {
+    "question": "What was the market capitalization of Nvidia in November 2023?",
+    "context": "Nvidia crossed \\$1 trillion in market valuation during trading hours,  and grew to \\$1.2 trillion by the following November. ",
+    "answer": "\\$1.2 trillion "
+  },
+  {
+    "question": "Who was Sega's president who visited Huang to inform him of the Dreamcast decision but still invested \\$5 million?",
+    "context": "In a pivotal moment, Sega's president, Shoichiro Irimajiri, visited Huang in person to inform him that Sega had decided to choose another vendor for the Dreamcast.  However, Irimajiri believed in Nvidia's potential and persuaded Sega's management to invest \\$5 million into the company. ",
+    "answer": "Shoichiro Irimajiri "
+  },
+  {
+    "question": "What was the reason behind the increase in Nvidia's sales reported in Q2 of 2020?",
+    "context": "The surge in sales and people's higher demand for computer technology. ",
+    "answer": "The surge in sales and people's higher demand for computer technology "
+  },
+  {
+    "question": "What was the reported source for China's alleged acquisition of banned Nvidia chips and servers in April 2024?",
+    "context": "In April 2024, Reuters reported that China had allegedly acquired banned Nvidia chips and servers from Supermicro and Dell via tenders. ",
+    "answer": "Supermicro and Dell via tenders "
+  },
+  {
+    "question": "What financial milestone did Nvidia become the first company in the world to surpass in market capitalization in 2025?",
+    "context": "It became the first company in the world to surpass US\\$4 trillion  and US\\$5 trillion  milestones in market capitalization in 2025, driven by rising global demand for data center hardware in the midst of the Al boom. ",
+    "answer": "US\\$4 trillion and US\\$5 trillion "
+  },
+  {
+    "question": "What did Nvidia claim about the new RTX Studio laptops announced in May 2019 compared to a top-end MacBook Pro?",
+    "context": "The creators say that the new laptop is going to be seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro. ",
+    "answer": "The new laptop is seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro. "
+  },
+  {
+    "question": "What was the purpose of the two-day reversal of the ban on Hardware Unboxed's review units by Nvidia?",
+    "context": "Two days later, Nvidia reversed their stance.  Hardware Unboxed sent out a Twitter message, \"I just received an email from Nvidia apologizing for the previous email & they've now walked everything back.\" ",
+    "answer": "Nvidia reversed their stance and apologized, walking everything back. "
+  },
+  {
+    "question": "Who was the Senior PR Manager at Nvidia whose email was disclosed by Steven Walton regarding the Hardware Unboxed controversy?",
+    "context": "In emails that were disclosed by Walton from Nvidia Senior PR Manager Bryan Del Rizzo, Nvidia had said: ",
+    "answer": "Bryan Del Rizzo "
+  },
+  {
+    "question": "How long did Huang later reflect the \\$5 million funding from Sega gave Nvidia to live?",
+    "context": "Huang later reflected that this funding was all that kept Nvidia afloat, and that Irimajiri's \"understanding and generosity gave us six months to live\". ",
+    "answer": "Six months "
+  },
+  {
+    "question": "What did the U.S. Court of Appeals for the Ninth Circuit affirm regarding Nvidia's acquisition of 3dfx's intellectual assets in 2014?",
+    "context": "On November 6, 2014, in an unpublished memorandum order, the U.S. Court of Appeals for the Ninth Circuit affirmed the \"district court's judgment affirming the bankruptcy court's determination that [Nvidia] did not pay less than fair market value for assets purchased from 3dfx shortly before 3dfx filed for bankruptcy\". ",
+    "answer": "That Nvidia did not pay less than fair market value for the assets purchased from 3dfx shortly before 3dfx filed for bankruptcy. "
+  },
+  {
+    "question": "What new advanced chip did Nvidia unveil in China in November 2022 to comply with U.S. export control rules?",
+    "context": "The next month [November 2022], the company unveiled a new advanced chip in China, called the A800 GPU, that met the export control rules. ",
+    "answer": "A800 GPU "
+  },
+  {
+    "question": "What virtual environment for engineers was unveiled by Nvidia in 2020?",
+    "context": "In 2020, Nvidia unveiled \"Omniverse\", a virtual environment designed for engineers. ",
+    "answer": "Omniverse "
+  },
+  {
+    "question": "What types of products and services does the Shield product family include?",
+    "context": "Shield, a range of gaming hardware including the Shield Portable, Shield Tablet and Shield TV ",
+    "answer": "Gaming hardware including the Shield Portable, Shield Tablet and Shield TV "
+  },
+  {
+    "question": "What was the estimated write-down Nvidia took on its first-quarter revenue in July 2008 due to manufacturing defects?",
+    "context": "In July 2008, Nvidia took a write-down of approximately \\$200 million on its first-quarter revenue, after reporting that certain mobile chipsets and GPUs produced by the company had \"abnormal failure rates\" due to manufacturing defects. ",
+    "answer": "Approximately \\$200 million "
+  },
+  {
+    "question": "In what year did Nvidia acquire PGI from STMicroelectronics?",
+    "context": "On July 29, 2013, Nvidia announced that they acquired PGI from STMicroelectronics. ",
+    "answer": "2013 "
+  },
+  {
+    "question": "What was the estimated 'circularity' of the Nvidia/OpenAI deal (in new Nvidia chips bought per \\$10 billion invested)?",
+    "context": "This \"circularity\" is estimated at \\$35 billion in new Nvidia chips bought by OpenAl, for every \\$10 billion Nvidia invests in OpenAl. ",
+    "answer": "\\$35 billion in new Nvidia chips bought by OpenAI for every \\$10 billion Nvidia invests in OpenAI. "
+  },
+  {
+    "question": "What was the total revenue reported by Nvidia for the fiscal year 2025 (in millions of US dollars)?",
+    "context": "2025 130,497 72,880 36,000 ",
+    "answer": "US\\$130,497 million "
+  },
+  {
+    "question": "What event occurred at the Denny's diner on Berryessa Road in September 2023 to mark the founding of Nvidia?",
+    "context": "On September 26, 2023, Denny's CEO Kelli Valade joined Huang in East San Jose to celebrate the founding of Nvidia at Denny's on Berryessa Road, where a plaque was installed to mark the relevant corner booth as the birthplace of a \\$1 trillion company. ",
+    "answer": "A plaque was installed to mark the relevant corner booth as the birthplace of a \\$1 trillion company. "
+  },
+  {
+    "question": "What two competing chip companies agreed to pay 15% of the revenues from certain chip sales in China as part of an arrangement to obtain export licenses in August 2025?",
+    "context": "In August 2025, Nvidia and competitor Advanced Micro Devices agreed to pay 15% of the revenues from certain chip sales in China as part of an arrangement to obtain export licenses. ",
+    "answer": "Nvidia and Advanced Micro Devices "
+  },
+  {
+    "question": "What was the one-day loss in market capitalization for a U.S. company in history, experienced by Nvidia in January 2025?",
+    "context": "In January 2025, Nvidia saw the largest one-day loss in market capitalization for a U.S. company in history at \\$600 billion. ",
+    "answer": "\\$600 billion "
+  },
+  {
+    "question": "Where did the three co-founders agree to start the company in late 1992?",
+    "context": "In late 1992, the three men agreed to start the company in a meeting at a Denny's roadside diner on Berryessa Road in East San Jose. ",
+    "answer": "At a Denny's roadside diner on Berryessa Road in East San Jose "
+  },
+  {
+    "question": "How long did Apple and Microsoft each take to get to a \\$2 trillion market capitalization from a \\$1 trillion valuation?",
+    "context": "Nvidia needed only 180 days to get to \\$2 trillion from \\$1 trillion, while the first two companies, Apple and Microsoft, each took over 500 days. ",
+    "answer": "Over 500 days "
+  },
+  {
+    "question": "In what year did Nvidia officially announce the GeForce 30 series, based on the Ampere microarchitecture?",
+    "context": "On September 1, 2020, Nvidia officially announced the GeForce 30 series based on the company's new Ampere microarchitecture. ",
+    "answer": "2020 "
+  },
+  {
+    "question": "What did AWS's P2 instance use when it was produced in late 2016?",
+    "context": "Later that year [2016], AWS's P2 instance was produced using up to 16 Nvidia Tesla K80 GPUs. ",
+    "answer": "Up to 16 Nvidia Tesla K80 GPUs "
+  },
+  {
+    "question": "Which of Nvidia's open-source projects allows for proper power management and GPU reclocking for Turing and newer graphics card generations?",
+    "context": "Support for Nvidia's firmware was implemented in nouveau in 2023, which allows proper power management and GPU reclocking for Turing and newer graphics card generations. ",
+    "answer": "Nouveau "
+  },
+  {
+    "question": "What is the product family name for dedicated general-purpose GPUs for high-end image generation applications in professional and scientific fields?",
+    "context": "Tesla, line of dedicated general-purpose GPUs for high-end image generation applications in professional and scientific fields ",
+    "answer": "Tesla "
+  },
+  {
+    "question": "What did Apple Insider claim was the reason for abandoning Nvidia support in macOS in February 2019?",
+    "context": "The following month, Apple Insider followed this up with another claim that Nvidia support was abandoned because of \"relational issues in the past\",  and that Apple was developing its own GPU technology. ",
+    "answer": "\"Relational issues in the past\" and that Apple was developing its own GPU technology "
+  },
+  {
+    "question": "In what year did Nvidia become the seventh U.S. company to reach a US\\$1 trillion valuation?",
+    "context": "In 2023, Nvidia became the seventh U.S. company to reach a US\\$1 trillion valuation. ",
+    "answer": "2023 "
+  },
+  {
+    "question": "What was the cumulative funding of the startups in the Nvidia Inception Program as of August 2021?",
+    "context": "As of August 2021, the program has over 8,500 members in 90 countries, with cumulative funding of US\\$60 billion. ",
+    "answer": "US\\$60 billion "
+  },
+  {
+    "question": "What was the focus of the collaboration announced between Nvidia and the Broad Institute of MIT and Harvard in September 2022?",
+    "context": "In September 2022, Nvidia announced a collaboration with the Broad Institute of MIT and Harvard related to the entire suite of Nvidia's Al-powered healthcare software suite called Clara, that includes Parabricks and MONAI. ",
+    "answer": "The entire suite of Nvidia's AI-powered healthcare software suite called Clara, which includes Parabricks and MONAI. "
+  },
+  {
+    "question": "What did Colette Kress, Nvidia's financial chief, say the effects of the pandemic would likely reflect?",
+    "context": "According to the financial chief of the company, Colette Kress, the effects of the pandemic will \"likely reflect this evolution in enterprise workforce trends with a greater focus on technologies, such as Nvidia laptops and virtual workstations, that enable remote work and virtual collaboration.\" ",
+    "answer": "An evolution in enterprise workforce trends with a greater focus on technologies that enable remote work and virtual collaboration. "
+  },
+  {
+    "question": "Who was the founder of Nvidia who was previously a director of CoreWare at LSI Logic and a microprocessor designer at AMD?",
+    "context": "Jensen Huang, a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD; ",
+    "answer": "Jensen Huang "
+  },
+  {
+    "question": "What was the market capitalization of Nvidia in January 2021?",
+    "context": "Nvidia's shares traded at over \\$531 per share, and its market capitalization was valued at over US\\$328.7 billion in January 2021. ",
+    "answer": "Over US\\$328.7 billion "
+  },
+  {
+    "question": "Despite lower raw performance, how much faster did the H20 demonstrate compared to the H100 in large language model inference tasks?",
+    "context": "Despite lower raw performance, the H20 demonstrated over 20% faster performance than the H100 in large language model inference tasks due to architectural optimizations. ",
+    "answer": "Over 20% faster "
+  },
+  {
+    "question": "Who was the founder of Nvidia who previously worked as an engineer at Sun Microsystems?",
+    "context": "Chris Malachowsky, an engineer who worked at Sun Microsystems ",
+    "answer": "Chris Malachowsky "
+  },
+  {
+    "question": "What was the title of the Nvidia employee who was highly critical of the company's move to dictate specific outcomes of technology reviews in the Hardware Unboxed controversy?",
+    "context": "Linus Sebastian, of Linus Tech Tips, titled the episode of his weekly WAN Show, \"NVIDIA might ACTUALLY be EVIL...\"  and was highly critical of the company's move to dictate specific outcomes of technology reviews. ",
+    "answer": "Linus Sebastian, of Linus Tech Tips "
+  },
+  {
+    "question": "What graphics accelerator helped solidify Nvidia's reputation as a leader in graphics technology in 1998?",
+    "context": "In 1998, the release of the RIVA TNT helped solidify Nvidia's reputation as a leader in graphics technology. ",
+    "answer": "RIVA TNT "
+  },
+  {
+    "question": "Who is the founder and CEO of Nvidia who is also a microprocessor designer at AMD?",
+    "context": "Jensen Huang, a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD; ",
+    "answer": "Jensen Huang "
+  },
+  {
+    "question": "What was the date of Jensen Huang's apology on Nvidia's official blog for the Maxwell advertising dispute?",
+    "context": "On February 26, 2015, Nvidia CEO Jensen Huang went on record in Nvidia's official blog to apologize for the incident. ",
+    "answer": "February 26, 2015 "
+  },
+  {
+    "question": "How many employees did Nvidia have in the fiscal year 2024?",
+    "context": "2024 60,922 29,760 29,600 ",
+    "answer": "29,600 "
+  },
+  {
+    "question": "What was the name of the supercomputer Nvidia built in Cambridge, England, to employ AI for healthcare research?",
+    "context": "The computer, called Cambridge-1, launched in July 2021 with a \\$100 million investment and will employ Al to support healthcare research. ",
+    "answer": "Cambridge-1 "
+  },
+  {
+    "question": "What happened to the RIVA 128 one month after its release in August 1997?",
+    "context": "By the time the RIVA 128 was released in August 1997, Nvidia had only enough money left for one month's payroll. ",
+    "answer": "Nvidia had only enough money left for one month's payroll. "
+  },
+  {
+    "question": "What was the key feature of the GeForce 256 (NV10) that made it notable for consumer-level 3D hardware?",
+    "context": "In late 1999, Nvidia released the GeForce 256 (NV10), its first product expressly marketed as a GPU, which was most notable for introducing onboard transformation and lighting (T&L) to consumer-level 3D hardware. ",
+    "answer": "Introducing onboard transformation and lighting (T&L) "
+  },
+  {
+    "question": "As of 2025, what percentage of the market for GPUs used in training and deploying AI models did Nvidia control?",
+    "context": "As a result, as of 2025, Nvidia controlled more than 80% of the market for GPUs used in training and deploying Al models,  and provided chips for over 75% of the world's TOP500 supercomputers. ",
+    "answer": "More than 80% "
+  },
+  {
+    "question": "What did Nvidia's deep learning technology lead to in its 2017 earnings?",
+    "context": "The company's deep learning technology led to a boost in its 2017 earnings. ",
+    "answer": "A boost in its 2017 earnings "
+  },
+  {
+    "question": "What was the stated reason for the possible rift between Apple and Nvidia regarding Mac Pro drivers?",
+    "context": "Apple fully controls drivers for macOS... Unfortunately, Nvidia currently cannot release a driver unless it is approved by Apple,  suggesting a possible rift between the two companies. ",
+    "answer": "Apple fully controls drivers for macOS and had not approved Nvidia's web drivers. "
+  },
+  {
+    "question": "What stock price were Nvidia's shares trading at in January 2021?",
+    "context": "Nvidia's shares traded at over \\$531 per share, and its market capitalization was valued at over US\\$328.7 billion in January 2021. ",
+    "answer": "Over \\$531 per share "
+  },
+  {
+    "question": "What was the official name of the open-source ventilator developed by Nvidia in May 2020?",
+    "context": "In May 2020, Nvidia developed an open-source ventilator to address the shortage resulting from the global coronavirus pandemic.  *Note: The document does not provide a specific name, only describes it as an open-source ventilator.*",
+    "answer": "An open-source ventilator (no specific name provided in the text) "
+  },
+  {
+    "question": "As of the first quarter of 2025, what percentage of the discrete desktop and laptop GPU market did Nvidia hold?",
+    "context": "As of the first quarter of 2025, Nvidia held a 92% share of the discrete desktop and laptop GPU market. ",
+    "answer": "92% "
+  },
+  {
+    "question": "What term did Nvidia first use to market the GeForce 256 (NV10)?",
+    "context": "In late 1999, Nvidia released the GeForce 256 (NV10), its first product expressly marketed as a GPU... ",
+    "answer": "GPU (Graphics Processing Unit) "
+  },
+  {
+    "question": "What did Morgan Stanley report about the entire 2025 production of Nvidia's Blackwell chips in November 2024?",
+    "context": "In November 2024, Morgan Stanley reported that \"the entire 2025 production\" of all of Nvidia's Blackwell chips was \"already sold out\". ",
+    "answer": "It was \"already sold out\" "
+  },
+  {
+    "question": "What product family is a set of hardware and services by Nvidia for graphics virtualization?",
+    "context": "GRID, a set of hardware and services by Nvidia for graphics virtualization ",
+    "answer": "GRID "
+  },
+  {
+    "question": "What was the core reason China's internet regulator banned large technology companies from buying Nvidia's AI chips in September 2025?",
+    "context": "China's internet regulator banned the country's largest technology companies from buying Nvidia's artificial intelligence chips as part of efforts to strengthen the domestic industry and compete with the United States. ",
+    "answer": "As part of efforts to strengthen the domestic industry and compete with the United States. "
+  },
+  {
+    "question": "What did Tesla's Elon Musk announce at Tesla Autonomy Day in 2019 regarding the use of Nvidia hardware in their vehicles?",
+    "context": "They [Nvidia GPUs] were included in many Tesla, Inc. vehicles before Musk announced at Tesla Autonomy Day in 2019 that the company developed its own SoC and full self-driving computer now and would stop using Nvidia hardware for their vehicles. ",
+    "answer": "Tesla developed its own SoC and full self-driving computer and would stop using Nvidia hardware for their vehicles. "
+  },
+  {
+    "question": "Which U.S. government agency led the antitrust investigation into Nvidia starting in June 2024?",
+    "context": "The FTC led the investigations into Microsoft and OpenAl, while the DOJ handled Nvidia. ",
+    "answer": "The Justice Department (DOJ) "
+  },
+  {
+    "question": "Who was the root user of the AWS account?",
+    "context": "I was not provided with any information about an AWS account or its root user.",
+    "answer": "I do not have this information based on the provided text."
+  },
+  {
+    "question": "What was the market capitalization of Nvidia in November 2023?",
+    "context": "Nvidia crossed \\$1 trillion in market valuation during trading hours,  and grew to \\$1.2 trillion by the following November. ",
+    "answer": "\\$1.2 trillion "
+  },
+  {
+    "question": "What are the two types of professional GPUs that Nvidia offers?",
+    "context": "The company's product lines include GeForce GPUs for gaming and creative workloads, and professional GPUs for edge computing, scientific research, and industrial applications. ",
+    "answer": "Professional GPUs for edge computing, scientific research, and industrial applications "
+  },
+  {
+    "question": "What was the name of the first product expressly marketed as a GPU by Nvidia, which introduced onboard T&L to consumer hardware?",
+    "context": "In late 1999, Nvidia released the GeForce 256 (NV10), its first product expressly marketed as a GPU, which was most notable for introducing onboard transformation and lighting (T&L) to consumer-level 3D hardware. ",
+    "answer": "GeForce 256 (NV10) "
+  },
+  {
+    "question": "What two actions did the Cyberspace Administration of China (CAC) instruct companies to end regarding the RTX Pro 6000D in September 2025?",
+    "context": "The CAC instructed companies this week to end both testing and orders of the RTX Pro 6000D, which Nvidia had designed as a tailor-made product for China... ",
+    "answer": "Ending both testing and orders of the RTX Pro 6000D "
+  },
+  {
+    "question": "What did Nvidia announce it was acquiring in May 2020 before absorbing it into its networking business unit?",
+    "context": "In May 2020, Nvidia announced it was acquiring Cumulus Networks.  Post acquisition the company was absorbed into Nvidia's networking business unit, along with Mellanox. ",
+    "answer": "Cumulus Networks "
+  },
+  {
+    "question": "What key component did Nvidia start requiring with its Maxwell GPUs in 2014 to unlock all features of its graphics cards?",
+    "context": "In 2014, with its Maxwell GPUs, Nvidia started to require firmware by them to unlock all features of its graphics cards. ",
+    "answer": "Firmware by them (Nvidia) "
+  },
+  {
+    "question": "In what year did Google announce that Nvidia's Tesla P4 graphic cards would be integrated into Google Cloud service's AI?",
+    "context": "In 2018, Google announced that Nvidia's Tesla P4 graphic cards would be integrated into Google Cloud service's artificial intelligence. ",
+    "answer": "2018 "
+  },
+  {
+    "question": "What was the design theme for Nvidia's new headquarters buildings, planned in 2013?",
+    "context": "The company selected triangles as its design theme. As Huang explained in a blog post, the triangle is \"the fundamental building block of computer graphics\". ",
+    "answer": "Triangles, as the fundamental building block of computer graphics "
+  },
+  {
+    "question": "What are the three main areas Nvidia focuses its own resources on, as part of its fabless model?",
+    "context": "Nvidia focuses its own resources on product design, quality assurance, marketing, and customer support. ",
+    "answer": "Product design, quality assurance, marketing, and customer support "
+  },
+  {
+    "question": "What open-source project was enhanced in 2023 to allow proper power management and GPU reclocking for Turing and newer graphics card generations?",
+    "context": "Support for Nvidia's firmware was implemented in nouveau in 2023, which allows proper power management and GPU reclocking for Turing and newer graphics card generations. ",
+    "answer": "Nouveau "
+  },
+  {
+    "question": "What was the core reason Nvidia GPUs are used in deep learning and accelerated analytics?",
+    "context": "Nvidia GPUs are used in deep learning, and accelerated analytics due to Nvidia's CUDA software platform and API which allows programmers to utilize the higher number of cores present in GPUs to parallelize BLAS operations which are extensively used in machine learning algorithms. ",
+    "answer": "Nvidia's CUDA software platform and API which allows programmers to utilize the higher number of cores in GPUs to parallelize BLAS operations. "
+  },
+  {
+    "question": "What was the number of processing cores in Microsoft's N series GPU servers based on Nvidia's Tesla K80s in 2016?",
+    "context": "Microsoft added GPU servers in a preview offering of its N series based on Nvidia's Tesla K80s, each containing 4992 processing cores. ",
+    "answer": "4992 processing cores (per server) "
+  },
+  {
+    "question": "What did DeepSeek's AI assistant, using the V3 model, surpass as the highest-rated free app in the U.S. on Apple's App Store?",
+    "context": "DeepSeek's Al assistant, using the V3 model, surpassed ChatGPT as the highest-rated free app in the U.S. on Apple's App Store. ",
+    "answer": "ChatGPT "
+  },
+  {
+    "question": "Who is the mathematician after whom the Blackwell AI chip and microarchitecture was named?",
+    "context": "On March 18, Nvidia announced its new Al chip and microarchitecture Blackwell, named after mathematician David Blackwell. ",
+    "answer": "David Blackwell "
+  },
+  {
+    "question": "What memory type did the GTX 1080 and GTX 1070 use, respectively?",
+    "context": "The models incorporate GDDR5X and GDDR5 memory respectively, and use a 16 nm manufacturing process. ",
+    "answer": "GDDR5X (GTX 1080) and GDDR5 (GTX 1070) "
+  },
+  {
+    "question": "What is the product family name for Nvidia's system on a chip series for mobile devices?",
+    "context": "Tegra, a system on a chip series for mobile devices ",
+    "answer": "Tegra "
+  },
+  {
+    "question": "What was the primary focus of the DOJ antitrust investigation into Nvidia that began in June 2024?",
+    "context": "The FTC led the investigations into Microsoft and OpenAl, while the DOJ handled Nvidia.  The probes centered on the companies' conduct rather than mergers. ",
+    "answer": "The company's conduct in the AI industry (rather than mergers) "
+  },
+  {
+    "question": "What was the reason the RTX Pro 6000D was designed by Nvidia?",
+    "context": "The CAC instructed companies this week to end both testing and orders of the RTX Pro 6000D, which Nvidia had designed as a tailor-made product for China, according to three people with knowledge of the matter. ",
+    "answer": "It was designed as a tailor-made product for China. "
+  },
+  {
+    "question": "What was the key feature that set the NV1 apart from competitors?",
+    "context": "Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives (forward texture mapping), a feature that set it apart from competitors, who preferred triangle primitives. ",
+    "answer": "It was designed to process quadrilateral primitives (forward texture mapping). "
+  },
+  {
+    "question": "On what date did Nvidia become the first company in the world to reach a market cap of \\$4 trillion?",
+    "context": "On July 10, 2025, Nvidia closed for the first time with a market cap above \\$4 trillion...  Nvidia became the first company to reach a market cap of \\$4 trillion. ",
+    "answer": "July 10, 2025 "
+  },
+  {
+    "question": "What was the value of Nvidia's market cap on January 7, 2025, compared to the combined value of AMD, ARM, Broadcom, and Intel?",
+    "context": "As of January 7, 2025, Nvidia's \\$3.66 trillion market cap was worth more than double of the combined value of AMD, ARM, Broadcom, and Intel. ",
+    "answer": "More than double the combined value of AMD, ARM, Broadcom, and Intel. "
+  },
+  {
+    "question": "Where did Curtis Priem work before founding Nvidia?",
+    "context": "Curtis Priem, who was previously a senior staff engineer and graphics chip designer at IBM and Sun Microsystems. ",
+    "answer": "IBM and Sun Microsystems "
+  },
+  {
+    "question": "What is the name of Nvidia's cloud gaming service?",
+    "context": "The company has also expanded into gaming hardware and services, with products such as the Shield Portable, Shield Tablet, and Shield TV, and operates the GeForce Now cloud gaming service. ",
+    "answer": "GeForce Now "
+  },
+  {
+    "question": "In what two fields is the Nvidia Inception Program designed to support startups?",
+    "context": "Nvidia's Inception Program was created to support startups making exceptional advances in the fields of artificial intelligence and data science. ",
+    "answer": "Artificial intelligence and data science "
+  },
+  {
+    "question": "What open-source foundation model for humanoid robots was introduced at GTC 2025?",
+    "context": "The announcement also introduced Isaac GROOT N1 (humanoid robotics model)... ",
+    "answer": "Isaac GROOT N1 (humanoid robotics model) "
+  },
+  {
+    "question": "What was the main reason the Xbox contract was problematic for Nvidia, despite the \\$200 million advance?",
+    "context": "However, the project took many of its best engineers away from other projects. ",
+    "answer": "The project took many of its best engineers away from other projects. "
+  },
+  {
+    "question": "Why did the NV1 fail to gain traction in the market?",
+    "context": "However, when Microsoft introduced the DirectX platform, it chose not to support any other graphics software and announced that its Direct3D API would exclusively support triangles.  As a result, the NV1 failed to gain traction in the market. ",
+    "answer": "Because Microsoft's DirectX platform chose to exclusively support triangle primitives, which the NV1 was not optimized for. "
+  },
+  {
+    "question": "Who are the three founders of Nvidia Corporation?",
+    "context": "Founded in 1993 by Jensen Huang (who remains president and CEO), Chris Malachowsky, and Curtis Priem, it develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs)... ",
+    "answer": "Jensen Huang, Chris Malachowsky, and Curtis Priem "
+  },
+  {
+    "question": "What company did Nvidia acquire in April 2004 that provided high-performance TCP offload engines and iSCSI controllers?",
+    "context": "On April 22, 2004, Nvidia acquired iReady, also a provider of high-performance TCP offload engines and iSCSI controllers. ",
+    "answer": "iReady "
+  },
+  {
+    "question": "What major stock index was Nvidia added to in November 2024?",
+    "context": "In November 2024, the company was added to the Dow Jones Industrial Average. ",
+    "answer": "The Dow Jones Industrial Average "
+  },
+  {
+    "question": "What was Nvidia's original primary market focus for its GPUs?",
+    "context": "Originally focused on GPUs for video gaming, Nvidia broadened their use into other markets, including artificial intelligence (AI), professional visualization, and supercomputing. ",
+    "answer": "Video gaming "
+  },
+  {
+    "question": "What two conditions, often not happening together, did Huang say made video games their 'killer app'?",
+    "context": "\"We also observed that video games were simultaneously one of the most computationally challenging problems and would have incredibly high sales volume. Those two conditions don't happen very often. Video games was our killer app...\" ",
+    "answer": "Being one of the most computationally challenging problems and having incredibly high sales volume "
+  },
+  {
+    "question": "What was the main reason the Xbox contract was problematic for Nvidia, despite the \\$200 million advance?",
+    "context": "However, the project took many of its best engineers away from other projects. ",
+    "answer": "The project took many of its best engineers away from other projects. "
+  },
+  {
+    "question": "Who are the top three largest shareholders of Nvidia in early 2024?",
+    "context": "The 10 largest shareholders of Nvidia in early 2024 were:  The Vanguard Group (8.280%)  BlackRock (5.623%)  Fidelity Investments (5.161%) ",
+    "answer": "The Vanguard Group, BlackRock, and Fidelity Investments "
+  },
+  {
+    "question": "What company did Nvidia acquire in March 2006?",
+    "context": "In March 2006, Nvidia acquired Hybrid Graphics. ",
+    "answer": "Hybrid Graphics "
+  },
+  {
+    "question": "What was the name of Nvidia's first quad-core mobile CPU system on a chip for mobile devices, released in November 2011?",
+    "context": "In November 2011, after initially unveiling it at Mobile World Congress, Nvidia released its ARM-based system on a chip for mobile devices, Tegra 3. Nvidia claimed that the chip featured the first-ever quad-core mobile CPU. ",
+    "answer": "Tegra 3 "
+  },
+  {
+    "question": "What is the codename for Nvidia's Datacenter/server class CPU released in 2023?",
+    "context": "Datacenter/server class CPU, codenamed Grace, released in 2023 ",
+    "answer": "Grace "
+  },
+  {
+    "question": "How did the computational power (TFLOPs) of the H20 compare to the H100?",
+    "context": "The H20... had significantly reduced computational power at 296 TFLOPs compared to the H100's 1979 TFLOPs. ",
+    "answer": "Significantly reduced; H20 had 296 TFLOPs compared to H100's 1979 TFLOPs. "
+  },
+  {
+    "question": "What was the reported amount of money Nvidia spent on lobbying in 2023?",
+    "context": "It was noted that the \\$350,000 spent by the company on lobbying in 2023 was small compared to a number of major tech companies in the artificial intelligence space. ",
+    "answer": "\\$350,000 "
+  },
+  {
+    "question": "What is the name of the open-source software that makes use of Omniverse to train robots through simulations?",
+    "context": "Nvidia also open-sourced Isaac Sim, which makes use of this Omniverse to train robots through simulations that mimic the physics of the robots and the real world. ",
+    "answer": "Isaac Sim "
+  },
+  {
+    "question": "What was the name of the second of the two new Nvidia headquarters buildings, opened in May 2022?",
+    "context": "In May 2022, Nvidia opened Voyager, the second of the two giant buildings at its new headquarters complex to the west of the old one. ",
+    "answer": "Voyager "
+  },
+  {
+    "question": "What was the purpose of the Nvidia DGX-1 supercomputer produced in April 2016?",
+    "context": "In April 2016, Nvidia produced the DGX-1 based on an 8 GPU cluster, to improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. ",
+    "answer": "To improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. "
+  },
+  {
+    "question": "What amount of shares of Nebius Group did Nvidia buy in November 2024?",
+    "context": "Also in November 2024, the company bought 1.2 million shares of Nebius Group. ",
+    "answer": "1.2 million shares "
+  },
+  {
+    "question": "What two technology services/products are integrated with Trend Vision One in the Nvidia/Trend Micro partnership to improve data privacy and threat mitigation?",
+    "context": "This collaboration integrates Nvidia NIM and Nvidia Morpheus with Trend Vision One and its Sovereign and Private Cloud solutions to improve data privacy, real-time analysis, and rapid threat mitigation. ",
+    "answer": "Nvidia NIM and Nvidia Morpheus "
+  },
+  {
+    "question": "What is the name of Nvidia's new AI chip and microarchitecture announced on March 18, 2024?",
+    "context": "On March 18, Nvidia announced its new Al chip and microarchitecture Blackwell, named after mathematician David Blackwell. ",
+    "answer": "Blackwell "
+  },
+  {
+    "question": "What company did Nvidia acquire in August 2003 for approximately US\\$70 million?",
+    "context": "In August 2003, Nvidia acquired MediaQ for approximately US\\$70 million.  It launched GoForce the following year. ",
+    "answer": "MediaQ "
+  },
+  {
+    "question": "What is the key advantage of Nvidia's fabless manufacturing model?",
+    "context": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing... ",
+    "answer": "It avoids most of the investment and production costs and risks associated with chip manufacturing. "
+  },
+  {
+    "question": "What was the name of the new AI chip and microarchitecture announced on March 18, 2024?",
+    "context": "On March 18, Nvidia announced its new Al chip and microarchitecture Blackwell, named after mathematician David Blackwell. ",
+    "answer": "Blackwell "
+  },
+  {
+    "question": "How did Cisco's CIO Fletcher Previn describe the security measures for Nvidia GPUs in transit to data centers in February 2024?",
+    "context": "Cisco chief information officer Fletcher Previn explained at a CIO summit: \"Those GPUs arrive by armored car\". ",
+    "answer": "The GPUs arrive by armored car. "
+  },
+  {
+    "question": "What UK-based chip designer did Nvidia announce plans to buy from SoftBank Group for \\$40 billion in September 2020?",
+    "context": "On September 13, 2020, Nvidia announced that they would buy Arm from SoftBank Group for \\$40 billion, subject to the usual scrutiny, with the latter retaining a 10% share of Nvidia. ",
+    "answer": "Arm "
+  },
+  {
+    "question": "What are the two types of professional GPUs that Nvidia offers?",
+    "context": "The company's product lines include GeForce GPUs for gaming and creative workloads, and professional GPUs for edge computing, scientific research, and industrial applications. ",
+    "answer": "Professional GPUs for edge computing, scientific research, and industrial applications "
+  },
+  {
+    "question": "What computing architecture did Nvidia announce they would extend CUDA support to on July 21, 2025?",
+    "context": "In 21 July 2025, Nvidia announce to extend CUDA support to RISC-V. ",
+    "answer": "RISC-V "
+  },
+  {
+    "question": "What two core areas did Huang say the Cambridge-1 supercomputer would serve as a hub of innovation for the UK?",
+    "context": "According to Jensen Huang, \"The Cambridge-1 supercomputer will serve as a hub of innovation for the UK, and further the groundbreaking work being done by the nation's researchers in critical healthcare and drug discovery.\" ",
+    "answer": "Critical healthcare and drug discovery "
+  },
+  {
+    "question": "Since 2014, what are the three key markets Nvidia has diversified its business to focus on?",
+    "context": "Since 2014, Nvidia has diversified its business focusing on three markets: gaming, automotive electronics, and mobile devices. ",
+    "answer": "Gaming, automotive electronics, and mobile devices "
+  },
+  {
+    "question": "What did Nvidia's acquisition of Mellanox Technologies substantially expand its footprint in?",
+    "context": "On March 11, 2019, Nvidia announced a deal to buy Mellanox Technologies for \\$6.9 billion  to substantially expand its footprint in the high-performance computing market. ",
+    "answer": "The high-performance computing market "
+  },
+  {
+    "question": "What was the name of Nvidia's first graphics accelerator?",
+    "context": "Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives (forward texture mapping), a feature that set it apart from competitors... ",
+    "answer": "NV1 "
+  },
+  {
+    "question": "What was the initial problem users found with the GeForce GTX 970's memory despite featuring 4 GB of VRAM?",
+    "context": "Issues with the GeForce GTX 970's specifications were first brought up by users when they found out that the cards, while featuring 4 GB of memory, rarely accessed memory over the 3.5 GB boundary. ",
+    "answer": "The cards rarely accessed memory over the 3.5 GB boundary, despite having 4 GB of VRAM. "
+  },
+  {
+    "question": "What was the name of the graphics accelerator released in August 1997 that was optimized for triangle primitives?",
+    "context": "Huang laid off more than half of Nvidia's employees... and focused the company's remaining resources on developing a graphics accelerator product optimized for processing triangle primitives: the RIVA 128. ",
+    "answer": "RIVA 128 "
+  },
+  {
+    "question": "What was Nvidia's headcount reduced to in 1996 after Huang laid off more than half of the employees?",
+    "context": "In 1996, Huang laid off more than half of Nvidia's employees-thereby reducing headcount from 100 to 40... ",
+    "answer": "From 100 to 40 "
+  },
+  {
+    "question": "What was the name of the Taiwanese-American electrical engineer who co-founded Nvidia and remains its president and CEO?",
+    "context": "Nvidia was founded on April 5, 1993,  by Jensen Huang, a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD; ",
+    "answer": "Jensen Huang "
+  },
+  {
+    "question": "Who is the former director of NASA Johnson Space Center and a director on Nvidia's board as of November 2024?",
+    "context": "Ellen Ochoa (former director of NASA Johnson Space Center) ",
+    "answer": "Ellen Ochoa "
+  },
+  {
+    "question": "From which three venture capital firms did Nvidia receive \\$20 million in funding?",
+    "context": "The company subsequently received \\$20 million of venture capital funding from Sequoia Capital, Sutter Hill Ventures, and others. ",
+    "answer": "Sequoia Capital, Sutter Hill Ventures, and others "
+  },
+  {
+    "question": "What Chinese AI startup was cited as the cause for Nvidia's \\$600 billion one-day loss in market cap in January 2025?",
+    "context": "This was due to DeepSeek, a Chinese Al startup that developed an advanced Al model at a lower cost and computing power. ",
+    "answer": "DeepSeek "
+  },
+  {
+    "question": "Which regulatory body searched Nvidia's French offices in September 2023 as part of an investigation into suspected anti-competitive practices?",
+    "context": "On September 26, 2023, Nvidia's French offices were searched by the French Competition Authority.  The raid, authorized by a judge, was part of an investigation into suspected anti-competitive practices in the graphics card sector. ",
+    "answer": "The French Competition Authority "
+  },
+  {
+    "question": "What company did Nvidia assist with the design of the graphics processor (RSX) for the PlayStation 3 game console?",
+    "context": "In December 2004, it was announced that Nvidia would assist Sony with the design of the graphics processor (RSX) for the PlayStation 3 game console. ",
+    "answer": "Sony "
+  },
+  {
+    "question": "What two key benefits would the Nvidia investment provide to Intel, as announced in September 2025?",
+    "context": "Nvidia's move provides Intel with fresh support following years of unsuccessful turnaround efforts and will allow Nvidia to offer its powerful GB300 data center servers based on Blackwell GPUs on Intel's X86 architecture. ",
+    "answer": "Fresh support following unsuccessful turnaround efforts and allowing Nvidia to offer its powerful GB300 data center servers on Intel's X86 architecture. "
+  },
+  {
+    "question": "What group is Nvidia considered a part of, alongside companies like Microsoft, Apple, and Amazon?",
+    "context": "Nvidia is considered part of the Big Tech group, alongside Microsoft, Apple, Alphabet, Amazon, and Meta. ",
+    "answer": "The Big Tech group "
+  },
+  {
+    "question": "What did AWS's P2 instance use when it was produced in late 2016?",
+    "context": "Later that year [2016], AWS's P2 instance was produced using up to 16 Nvidia Tesla K80 GPUs. ",
+    "answer": "Up to 16 Nvidia Tesla K80 GPUs "
+  },
+  {
+    "question": "Where was Jensen Huang previously the director of CoreWare?",
+    "context": "Jensen Huang, a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD ",
+    "answer": "LSI Logic "
+  },
+  {
+    "question": "What type of product was the RTX Pro 6000D, which the Cyberspace Administration of China (CAC) ordered companies not to purchase?",
+    "context": "The Cyberspace Administration of China (CAC) ordered companies including TikTok parent company ByteDance and Alibaba not to purchase the RTX Pro 6000D, a graphics chip made specifically for the Chinese market. ",
+    "answer": "A graphics chip made specifically for the Chinese market "
+  },
+  {
+    "question": "What were the actual back-end hardware specification differences between the GeForce GTX 970 and GTX 980, apart from memory access?",
+    "context": "The card's back-end hardware specifications, initially announced as being identical to those of the GeForce GTX 980, differed in the amount of L2 cache (1.75 MB versus 2 MB in the GeForce GTX 980) and the number of ROPs (56 versus 64 in the 980). ",
+    "answer": "The GTX 970 had 1.75 MB of L2 cache (versus 2 MB in the GTX 980) and 56 ROPs (versus 64 in the 980). "
+  },
+  {
+    "question": "What was the market capitalization of Nvidia on November 2024 when it was added to the Dow Jones Industrial Average?",
+    "context": "In November 2024, the company was added to the Dow Jones Industrial Average.  *Note: The document does not specify the exact market cap on this date, only that it surpassed \\$3.3 trillion on June 18, 2024. *",
+    "answer": "The document does not specify the exact market capitalization on this date. "
+  },
+  {
+    "question": "What did U.S. senators Jim Banks and Elizabeth Warren say the proposed Nvidia facility in Shanghai raised?",
+    "context": "In May 2025, U.S. senators Jim Banks and Elizabeth Warren criticized a proposed Nvidia facility in Shanghai, saying that it \"raises significant national security and economic security issues that warrant serious review.\" ",
+    "answer": "Significant national security and economic security issues that warrant serious review "
+  },
+  {
+    "question": "What GPU microarchitecture and accelerator were officially announced in May 2020?",
+    "context": "On May 14, 2020, Nvidia officially announced their Ampere GPU microarchitecture and the Nvidia A100 GPU accelerator. ",
+    "answer": "Ampere GPU microarchitecture and the Nvidia A100 GPU accelerator "
+  },
+  {
+    "question": "What magazine named Nvidia its Company of the Year for 2007?",
+    "context": "Forbes named Nvidia its Company of the Year for 2007, citing the accomplishments it made during the said period as well as during the previous five years. ",
+    "answer": "Forbes "
+  },
+  {
+    "question": "What was the key feature that set the NV1 apart from competitors?",
+    "context": "Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives (forward texture mapping), a feature that set it apart from competitors, who preferred triangle primitives. ",
+    "answer": "It was designed to process quadrilateral primitives (forward texture mapping). "
+  },
+  {
+    "question": "Which two technology leaders were described as \"begging\" Jensen Huang for H100 GPUs at a dinner in October 2023?",
+    "context": "Larry Ellison of Oracle Corporation said that month that during a dinner with Huang at Nobu in Palo Alto, he and Elon Musk of Tesla, Inc. and xAl \"were begging\" for H100s, \"I guess is the best way to describe it. An hour of sushi and begging\". ",
+    "answer": "Larry Ellison of Oracle Corporation and Elon Musk of Tesla, Inc. and xAl "
+  },
+  {
+    "question": "What is the fundamental benefit of Nvidia's fabless manufacturing model?",
+    "context": "Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing...  Nvidia focuses its own resources on product design, quality assurance, marketing, and customer support. ",
+    "answer": "It avoids most of the investment, production costs, and risks associated with chip manufacturing, allowing resources to focus on design, QA, marketing, and support. "
+  },
+  {
+    "question": "What was the name of the server farm dedicated to autonomous AI announced in October 2025?",
+    "context": "A server farm dedicated to autonomous Al was also announced in October 2025...  *Note: The text does not give the name, but the later context specifies a location.*",
+    "answer": "The Bet Yehoshua server farm (implied location) "
+  },
+  {
+    "question": "To which organization did Nvidia gift its first DGX-1 supercomputer in August 2016?",
+    "context": "Nvidia gifted its first DGX-1 to OpenAl in August 2016 to help it train larger and more complex Al models with the capability of reducing processing time from six days to two hours. ",
+    "answer": "OpenAI "
+  },
+  {
+    "question": "What financial misconduct did the U.S. Securities and Exchange Commission (SEC) charge Nvidia with in 2022?",
+    "context": "However, the company failed to disclose that it was a \"significant element\" of its revenue growth from sales of chips designed for gaming, the SEC further added in a statement and charging order.  ... The SEC charged Nvidia with improper disclosures about cryptomining. ",
+    "answer": "Failure to disclose that cryptomining was a \"significant element\" of its revenue growth from gaming chip sales in 2018. "
+  },
+  {
+    "question": "What does the `NVS` product family specialize in?",
+    "context": "NVS, a multi-display business graphics processor ",
+    "answer": "Multi-display business graphics processing "
+  },
+  {
+    "question": "What major stock index did Standard & Poor's select Nvidia to replace the departing Enron in 2001?",
+    "context": "In 2001, Standard & Poor's selected Nvidia to replace the departing Enron in the S&P 500 stock index, meaning that index funds would need to hold Nvidia shares going forward. ",
+    "answer": "The S&P 500 stock index "
+  },
+  {
+    "question": "What did Chinese government directives warn domestic companies against purchasing, leading to Nvidia halting H20 AI chip production in August 2025?",
+    "context": "In August 2025, Nvidia ordered suppliers to halt production of its H20 Al chip following Chinese government directives warning domestic companies against purchasing the processor due to security concerns. ",
+    "answer": "The H20 AI chip due to security concerns "
+  },
+  {
+    "question": "What reason did SoftBank and Nvidia give for agreeing not to move forward with the acquisition of Arm in February 2022?",
+    "context": "SoftBank (the parent company of Arm) and Nvidia announced in early February 2022 that they \"had agreed not to move forward with the transaction 'because of significant regulatory challenges'\". ",
+    "answer": "\"Because of significant regulatory challenges\" "
+  },
+  {
+    "question": "What was the main point of Linus Sebastian's criticism of Nvidia's move in the Hardware Unboxed controversy?",
+    "context": "Linus Sebastian, of Linus Tech Tips, titled the episode of his weekly WAN Show, \"NVIDIA might ACTUALLY be EVIL...\"  and was highly critical of the company's move to dictate specific outcomes of technology reviews. ",
+    "answer": "The company's move to dictate specific outcomes of technology reviews "
+  },
+  {
+    "question": "What two U.S. Senators criticized a proposed Nvidia facility in Shanghai in May 2025?",
+    "context": "In May 2025, U.S. senators Jim Banks and Elizabeth Warren criticized a proposed Nvidia facility in Shanghai, saying that it \"raises significant national security and economic security issues that warrant serious review.\" ",
+    "answer": "Jim Banks and Elizabeth Warren "
+  },
+  {
+    "question": "What are the two core areas that Jensen Huang oriented Nvidia's focus towards in 2024, expecting widespread adoption?",
+    "context": "In 2024, Huang oriented Nvidia's focus towards humanoid robots and self-driving cars, which he expects to gain widespread adoption. ",
+    "answer": "Humanoid robots and self-driving cars "
+  },
+  {
+    "question": "What did the collaboration between SDS Schönfeld, VAST Data, and Nvidia announce in October 2025?",
+    "context": "A server farm dedicated to autonomous Al was also announced in October 2025, as a collaboration between SDS Schönfeld, a data services firm owned by UC Schönfeld, and VAST Data, an Israeli company specializing in Al storage management that collaborates closely with Nvidia. ",
+    "answer": "A server farm dedicated to autonomous AI (Bet Yehoshua server farm) "
+  },
+  {
+    "question": "Where is Nvidia Corporation headquartered?",
+    "context": "Nvidia Corporation is an American technology company headquartered in Santa Clara, California. ",
+    "answer": "Santa Clara, California "
+  },
+  {
+    "question": "What was the total number of members in the Nvidia Inception Program as of August 2021?",
+    "context": "As of August 2021, the program has over 8,500 members in 90 countries, with cumulative funding of US\\$60 billion. ",
+    "answer": "Over 8,500 members "
+  },
+  {
+    "question": "What was the name of the supercomputer line created by Nvidia that began with the DGX-1 in April 2016?",
+    "context": "DGX is a line of supercomputers by Nvidia.  In April 2016, Nvidia produced the DGX-1 based on an 8 GPU cluster... ",
+    "answer": "DGX "
+  },
+  {
+    "question": "What types of products and services does the Shield product family include?",
+    "context": "Shield, a range of gaming hardware including the Shield Portable, Shield Tablet and Shield TV ",
+    "answer": "Gaming hardware including the Shield Portable, Shield Tablet and Shield TV "
+  },
+  {
+    "question": "What was the primary reason Nvidia told YouTube reviewer Steven Walton (Hardware Unboxed) they would no longer supply him with GPU review units in 2020?",
+    "context": "Nvidia have officially decided to ban us from receiving GeForce Founders Edition GPU review samples. Their reasoning is that we are focusing on rasterization instead of ray tracing. ",
+    "answer": "Focusing on rasterization instead of ray tracing "
+  },
+  {
+    "question": "What happened to the RIVA 128 one month after its release in August 1997?",
+    "context": "By the time the RIVA 128 was released in August 1997, Nvidia had only enough money left for one month's payroll. ",
+    "answer": "Nvidia had only enough money left for one month's payroll. "
+  },
+  {
+    "question": "In what year was the DGX-1 supercomputer, based on an 8 GPU cluster, produced?",
+    "context": "In April 2016, Nvidia produced the DGX-1 based on an 8 GPU cluster, to improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. ",
+    "answer": "2016 "
+  },
+  {
+    "question": "What did Andrew Ng of the Google Brain team determine about the speed of deep learning systems when using Nvidia GPUs in 2009?",
+    "context": "That year, the Google Brain team used Nvidia GPUs to create deep neural networks capable of machine learning, where Andrew Ng determined that GPUs could increase the speed of deep learning systems by about 100 times. ",
+    "answer": "GPUs could increase the speed of deep learning systems by about 100 times. "
+  },
+  {
+    "question": "What is the name of the software kit Nvidia partnered with IBM to create in 2016 to boost the AI capabilities of Watson?",
+    "context": "That month Nvidia also partnered with IBM to create a software kit that boosts the Al capabilities of Watson,  called IBM PowerAl. ",
+    "answer": "IBM PowerAI "
+  },
+  {
+    "question": "What product family replaced the GTX and Quadro brands for professional visual computing graphics processing products?",
+    "context": "RTX, professional visual computing graphics processing products (replacing GTX and Quadro) ",
+    "answer": "RTX "
+  },
+  {
+    "question": "What specific AI and physics related models were introduced at GTC 2025?",
+    "context": "The announcement also introduced Isaac GROOT N1 (humanoid robotics model), Cosmos (synthetic training data Al), and the Newton physics engine, developed in collaboration with DeepMind and Disney Research. ",
+    "answer": "Isaac GROOT N1 (humanoid robotics model), Cosmos (synthetic training data AI), and the Newton physics engine "
+  },
+  {
+    "question": "What did Jensen Huang deny regarding allegations about the H20 chip?",
+    "context": "CEO Jensen Huang denied allegations that the H20 contained security backdoors, stating the chips were designed solely for commercial use. ",
+    "answer": "Allegations that the H20 contained security backdoors "
+  },
+  {
+    "question": "What two U.S. government agencies began antitrust investigations into Nvidia, Microsoft and OpenAI in June 2024?",
+    "context": "In June 2024, the Federal Trade Commission (FTC) and the Justice Department (DOJ) began antitrust investigations into Nvidia, Microsoft and OpenAl, focusing on their influence in the Al industry. ",
+    "answer": "The Federal Trade Commission (FTC) and the Justice Department (DOJ) "
+  },
+  {
+    "question": "What was the total value and duration of the cross-licensing agreement Nvidia signed with Intel in 2011?",
+    "context": "On January 10, 2011, Nvidia signed a six-year, \\$1.5 billion cross-licensing agreement with Intel, ending all litigation between the two companies. ",
+    "answer": "\\$1.5 billion over six years "
+  },
+  {
+    "question": "What model, released under the Nvidia Open Model License, did Nvidia release on April 7, 2025?",
+    "context": "On April 7, 2025, Nvidia released the Llama-3.1-Nemotron-Ultra-253B-v1 reasoning large language model, under the Nvidia Open Model License. ",
+    "answer": "The Llama-3.1-Nemotron-Ultra-253B-v1 reasoning large language model "
+  },
+  {
+    "question": "Who was the founder of Nvidia who was previously a director of CoreWare at LSI Logic and a microprocessor designer at AMD?",
+    "context": "Jensen Huang, a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD ",
+    "answer": "Jensen Huang "
+  },
+  {
+    "question": "In what year was Nvidia Corporation founded?",
+    "context": "Nvidia was founded on April 5, 1993... ",
+    "answer": "1993 "
+  },
+  {
+    "question": "What percentage immediate holding would Nvidia gain in Intel after new shares are issued from the September 2025 agreement?",
+    "context": "The investment will give Nvidia an immediate holding of about 4% in Intel once new shares are issued to finalize the agreement. ",
+    "answer": "About 4% "
+  },
+  {
+    "question": "Who is Nvidia's Executive Vice President and Chief Financial Officer as of March 2024?",
+    "context": "Nvidia's key management as of March 2024 consists of:  ... Colette Kress, executive vice president and chief financial officer ",
+    "answer": "Colette Kress "
+  },
+  {
+    "question": "What two U.S. Senators criticized a proposed Nvidia facility in Shanghai in May 2025?",
+    "context": "In May 2025, U.S. senators Jim Banks and Elizabeth Warren criticized a proposed Nvidia facility in Shanghai, saying that it \"raises significant national security and economic security issues that warrant serious review.\" ",
+    "answer": "Jim Banks and Elizabeth Warren "
+  },
+  {
+    "question": "What did Nvidia's deep learning technology lead to in its 2017 earnings?",
+    "context": "The company's deep learning technology led to a boost in its 2017 earnings. ",
+    "answer": "A boost in its 2017 earnings "
+  },
+  {
+    "question": "What company did Nvidia acquire in July 2002, whose personnel were merged into the Cg project?",
+    "context": "In July 2002, Nvidia acquired Exluna for an undisclosed sum.  Exluna made software-rendering tools and the personnel were merged into the Cg project. ",
+    "answer": "Exluna "
+  },
+  {
+    "question": "What was the total sale price of the UK-based baseband chip making company Icera, acquired by Nvidia in May 2011?",
+    "context": "In May 2011, it was announced that Nvidia had agreed to acquire Icera, a baseband chip making company in the UK, for \\$367 million. ",
+    "answer": "\\$367 million "
+  },
+  {
+    "question": "What was the amount of the civil charges settlement Nvidia agreed to pay the SEC regarding improper disclosures about cryptomining?",
+    "context": "Nvidia, which did not admit or deny the findings, has agreed to pay \\$5.5 million to settle civil charges, according to a statement made by the SEC in May 2022. ",
+    "answer": "\\$5.5 million "
+  },
+  {
+    "question": "What did TechSpot, a partner site of Hardware Unboxed, say the controversy raised serious questions about?",
+    "context": "TechSpot, partner site of Hardware Unboxed, said, \"this and other related incidents raise serious questions around journalistic independence and what they are expecting of reviewers when they are sent products for an unbiased opinion.\" ",
+    "answer": "Journalistic independence and what Nvidia was expecting of reviewers sent products for an unbiased opinion. "
+  },
+  {
+    "question": "What did Amodei vehemently deny regarding Jensen Huang's allegations in their AI regulation dispute?",
+    "context": "The conflict escalated when Amodei vehemently denied Huang's allegations that he sought to control the Al industry through safety concerns, calling Huang's claims an \"outrageous lie.\" ",
+    "answer": "Huang's allegations that he sought to control the AI industry through safety concerns "
+  },
+  {
+    "question": "What did DeepSeek's AI assistant, using the V3 model, surpass as the highest-rated free app in the U.S. on Apple's App Store?",
+    "context": "DeepSeek's Al assistant, using the V3 model, surpassed ChatGPT as the highest-rated free app in the U.S. on Apple's App Store. ",
+    "answer": "ChatGPT "
+  },
+  {
+    "question": "What was the total number of members in the Nvidia Inception Program as of August 2021?",
+    "context": "As of August 2021, the program has over 8,500 members in 90 countries, with cumulative funding of US\\$60 billion. ",
+    "answer": "Over 8,500 members "
+  },
+  {
+    "question": "What two non-profit organizations did the coalition include with Nvidia and Emerald AI to deploy AI-developed software to adjust power grid energy draw in Virginia?",
+    "context": "In October 2025, a coalition of Nvidia, nonprofit Electric Power Research Institute and PJM Interconnection announced that the first commercial application of software-developed by startup Emerald Al (in which Nvidia invests), that adjusts the energy draw on a power grid in real time was to be deployed at a new data center under construction in Viginia. ",
+    "answer": "nonprofit Electric Power Research Institute and PJM Interconnection "
+  },
+  {
+    "question": "What was the purpose of the Nvidia DGX-1 supercomputer produced in April 2016?",
+    "context": "In April 2016, Nvidia produced the DGX-1 based on an 8 GPU cluster, to improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. ",
+    "answer": "To improve the ability of users to use deep learning by combining GPUs with integrated deep learning software. "
+  },
+  {
+    "question": "What was the main theme of the GTC 2025 conference that the Blackwell Ultra and Vera Rubin chips were signaling a leap toward?",
+    "context": "At GTC 2025, Nvidia unveiled its next-generation Al hardware, the Blackwell Ultra and Vera Rubin chips, signaling a leap toward agentic Al and reasoning-capable computing. ",
+    "answer": "Agentic AI and reasoning-capable computing "
+  },
+  {
+    "question": "What company did Nvidia announce a deal to buy for \\$6.9 billion in March 2019 to expand into high-performance computing?",
+    "context": "On March 11, 2019, Nvidia announced a deal to buy Mellanox Technologies for \\$6.9 billion  to substantially expand its footprint in the high-performance computing market. ",
+    "answer": "Mellanox Technologies "
+  },
+  {
+    "question": "How many IAM users were present in the AWS account?",
+    "context": "I was not provided with any information about the number of IAM users in the AWS account.",
+    "answer": "I do not have this information based on the provided text."
+  },
+  {
+    "question": "Who is the lead independent director of Nvidia's board of directors as of November 2024?",
+    "context": "Stephen Neal (lead independent director of Nvidia, former CEO and Chairman Emeritus and Senior Counsel of Cooley LLP) ",
+    "answer": "Stephen Neal "
+  },
+  {
+    "question": "What products does Nvidia develop for data science, high-performance computing, and mobile/automotive applications, besides GPUs and SoCs?",
+    "context": "It develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, and mobile and automotive applications. ",
+    "answer": "Application programming interfaces (APIs) "
+  },
+  {
+    "question": "What two U.S. government agencies began antitrust investigations into Nvidia, Microsoft and OpenAI in June 2024?",
+    "context": "In June 2024, the Federal Trade Commission (FTC) and the Justice Department (DOJ) began antitrust investigations into Nvidia, Microsoft and OpenAl, focusing on their influence in the Al industry. ",
+    "answer": "The Federal Trade Commission (FTC) and the Justice Department (DOJ) "
+  },
+  {
+    "question": "What was the official name of the open-source ventilator developed by Nvidia in May 2020?",
+    "context": "In May 2020, Nvidia developed an open-source ventilator to address the shortage resulting from the global coronavirus pandemic.  *Note: The document does not provide a specific name, only describes it as an open-source ventilator.*",
+    "answer": "An open-source ventilator (no specific name provided in the text) "
+  },
+  {
+    "question": "In what month and year was the GeForce Partner Program (GPP) canceled?",
+    "context": "First announced in a blog post on March 1, 2018,  it was canceled on May 4, 2018. ",
+    "answer": "May 2018 "
+  },
+  {
+    "question": "What two key memory specifications (HBM3 memory and bandwidth) did the H20 chip have that were higher than the H100?",
+    "context": "The H20 was developed in late 2023 specifically for the Chinese market to comply with U.S. export restrictions, featuring 96GB of HBM3 memory and 4.0 TB/s memory bandwidth-higher than the H100... ",
+    "answer": "96GB of HBM3 memory and 4.0 TB/s memory bandwidth "
+  },
+  {
+    "question": "What action did the U.S. Department of Justice take against Nvidia and AMD in December 2006?",
+    "context": "In December 2006, Nvidia, along with its main rival in the graphics industry AMD (which had acquired ATI), received subpoenas from the U.S. Department of Justice regarding possible antitrust violations in the graphics card industry. ",
+    "answer": "Received subpoenas regarding possible antitrust violations in the graphics card industry. "
+  },
+  {
+    "question": "On what date did Nvidia surpass Microsoft and Apple to become the world's most valuable company with a market capitalization over \\$3.3 trillion?",
+    "context": "The company became the world's most valuable, surpassing Microsoft and Apple, on June 18, 2024, after its market capitalization exceeded \\$3.3 trillion. ",
+    "answer": "June 18, 2024 "
+  },
+  {
+    "question": "What was the final sale price of the Nvidia stock that Sega sold in 2000?",
+    "context": "After Irimajiri left Sega in 2000, Sega sold its Nvidia stock for \\$15 million. ",
+    "answer": "\\$15 million "
+  },
+  {
+    "question": "What was the name of the second of the two giant buildings at Nvidia's new headquarters complex, opened in May 2022?",
+    "context": "In May 2022, Nvidia opened Voyager, the second of the two giant buildings at its new headquarters complex to the west of the old one. ",
+    "answer": "Voyager "
+  },
+  {
+    "question": "What is the name of the new chip based on its Blackwell architecture intended to succeed the H20 in the Chinese market?",
+    "context": "The production suspension occurred as Nvidia was developing the B30A, a new chip based on its Blackwell architecture intended to succeed the H20 in the Chinese market. ",
+    "answer": "B30A "
+  },
+  {
+    "question": "What were the three types of open-source projects listed in the document?",
+    "context": "List of Nvidia open-source projects  Nouveau  NVDLA  PhysX  VDPAU  Vibrante  GROOT  garak ",
+    "answer": "Nouveau, NVDLA, PhysX, VDPAU, Vibrante, GROOT, and garak. "
+  },
+  {
+    "question": "What region accounted for the largest share of Nvidia's sales in 2023?",
+    "context": "United States 27.0 44.3% ",
+    "answer": "United States (44.3%) "
+  },
+  {
+    "question": "What was the name Malachowsky and Priem wanted to call the company, which was already taken by a toilet paper manufacturer?",
+    "context": "At one point, Malachowsky and Priem wanted to call the company NVision, but that name was already taken by a manufacturer of toilet paper. ",
+    "answer": "NVision "
+  },
+  {
+    "question": "What was the initial focus of Nvidia's GTC conference when it originated in 2009?",
+    "context": "It originated in 2009 in San Jose, California, with an initial focus on the potential for solving computing challenges through GPUs. ",
+    "answer": "The potential for solving computing challenges through GPUs "
+  },
+  {
+    "question": "What did the class action lawsuit filed in September 2008 claim about the faulty Nvidia GPUs?",
+    "context": "In September 2008, Nvidia became the subject of a class action lawsuit over the defects, claiming that the faulty GPUs had been incorporated into certain laptop models manufactured by Apple Inc., Dell, and HP. ",
+    "answer": "The faulty GPUs had been incorporated into certain laptop models manufactured by Apple Inc., Dell, and HP. "
+  },
+  {
+    "question": "What was the key finding of the 2009 research by the Google Brain team using Nvidia GPUs?",
+    "context": "That year, the Google Brain team used Nvidia GPUs to create deep neural networks capable of machine learning, where Andrew Ng determined that GPUs could increase the speed of deep learning systems by about 100 times. ",
+    "answer": "GPUs could increase the speed of deep learning systems by about 100 times for deep learning neural networks. "
+  },
+  {
+    "question": "What is the circular arrangement model common in AI partnerships that describes the Nvidia/OpenAI deal?",
+    "context": "The deal is a circular arrangement where OpenAl will pay back Nvidia's investment through the purchase of Nvidia's chips, which is a model common in Al partnerships. ",
+    "answer": "OpenAI will pay back Nvidia's investment through the purchase of Nvidia's chips. "
+  },
+  {
+    "question": "Who is the lead independent director of Nvidia as of November 2024?",
+    "context": "Stephen Neal (lead independent director of Nvidia, former CEO and Chairman Emeritus and Senior Counsel of Cooley LLP) ",
+    "answer": "Stephen Neal "
+  },
+  {
+    "question": "What did the probes into Nvidia, Microsoft and OpenAI in June 2024 center on?",
+    "context": "The probes centered on the companies' conduct rather than mergers. ",
+    "answer": "The companies' conduct rather than mergers "
+  },
+  {
+    "question": "What did Nvidia announce in October 2023 that they had quietly begun designing?",
+    "context": "In October 2023, it was reported that Nvidia had quietly begun designing ARM-based central processing units (CPUs) for Microsoft's Windows operating system with a target to start selling them in 2025. ",
+    "answer": "ARM-based central processing units (CPUs) for Microsoft's Windows operating system "
+  },
+  {
+    "question": "What product family is Nvidia's consumer-oriented graphics processing line?",
+    "context": "Nvidia's product families include graphics processing units, wireless communication devices, and automotive hardware and software, such as: GeForce, consumer-oriented graphics processing products ",
+    "answer": "GeForce "
+  },
+  {
+    "question": "What two key areas did Huang say the Cambridge-1 supercomputer would serve as a hub of innovation for the UK?",
+    "context": "According to Jensen Huang, \"The Cambridge-1 supercomputer will serve as a hub of innovation for the UK, and further the groundbreaking work being done by the nation's researchers in critical healthcare and drug discovery.\" ",
+    "answer": "Critical healthcare and drug discovery "
+  },
+  {
+    "question": "What products does Nvidia develop for data science, high-performance computing, and mobile/automotive applications, besides GPUs and SoCs?",
+    "context": "It develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, and mobile and automotive applications. ",
+    "answer": "Application programming interfaces (APIs) "
+  },
+  {
+    "question": "What was the core of the dispute between Jensen Huang and Dario Amodei over AI regulation in July 2025?",
+    "context": "The dispute centered on differing philosophies regarding Al development, with Amodei advocating for stronger regulatory oversight and \"responsible scaling policies,\" while Huang promoted open-source development and criticized what Nvidia characterized as \"regulatory capture.\" ",
+    "answer": "The dispute centered on Amodei advocating for stronger regulatory oversight/\"responsible scaling policies\" versus Huang promoting open-source development and criticizing \"regulatory capture.\" "
+  },
+  {
+    "question": "What was the name of the new AI chip and microarchitecture announced by Nvidia on March 18, 2024?",
+    "context": "On March 18, Nvidia announced its new Al chip and microarchitecture Blackwell, named after mathematician David Blackwell. ",
+    "answer": "Blackwell "
+  },
+  {
+    "question": "How many attendees did GTC 2018 attract?",
+    "context": "GTC 2018 attracted over 8400 attendees. ",
+    "answer": "Over 8400 attendees "
+  },
+  {
+    "question": "What was the title of the Nvidia employee who was highly critical of the company's move to dictate specific outcomes of technology reviews in the Hardware Unboxed controversy?",
+    "context": "Linus Sebastian, of Linus Tech Tips, titled the episode of his weekly WAN Show, \"NVIDIA might ACTUALLY be EVIL...\"  and was highly critical of the company's move to dictate specific outcomes of technology reviews. ",
+    "answer": "Linus Sebastian, of Linus Tech Tips "
+  },
+  {
+    "question": "What percentage of Nvidia's sales came from the Compute & networking business unit in 2023?",
+    "context": "Compute & networking 47.4 77.8% ",
+    "answer": "77.8% "
+  },
+  {
+    "question": "What microarchitecture were the first GPUs of the GeForce 10 series (GTX 1080 and 1070) based on?",
+    "context": "On May 6, 2016, Nvidia unveiled the first GPUs of the GeForce 10 series, the GTX 1080 and 1070, based on the company's new Pascal microarchitecture. ",
+    "answer": "Pascal microarchitecture "
+  },
+  {
+    "question": "What two chips did Nvidia unveil at GTC 2025 as its next-generation AI hardware?",
+    "context": "At GTC 2025, Nvidia unveiled its next-generation Al hardware, the Blackwell Ultra and Vera Rubin chips, signaling a leap toward agentic Al and reasoning-capable computing. ",
+    "answer": "Blackwell Ultra and Vera Rubin chips "
+  },
+  {
+    "question": "What was the estimated total system power of the new AI data centers OpenAI will build using Nvidia systems as part of the September 2025 deal?",
+    "context": "OpenAl will build new Al data centers using Nvidia systems, amounting to at least 10 gigawatts system power, which is the equivalent of energy produced by more than four Hoover Dams. ",
+    "answer": "At least 10 gigawatts "
+  },
+  {
+    "question": "What is the name of the open-source foundation model for humanoid robots announced at GTC 2025?",
+    "context": "The announcement also introduced Isaac GROOT N1 (humanoid robotics model)... ",
+    "answer": "Isaac GROOT N1 "
+  },
+  {
+    "question": "What company did Nvidia acquire in July 2002, whose personnel were merged into the Cg project?",
+    "context": "In July 2002, Nvidia acquired Exluna for an undisclosed sum.  Exluna made software-rendering tools and the personnel were merged into the Cg project. ",
+    "answer": "Exluna "
+  },
+  {
+    "question": "What did Linus Torvalds do and say in a 2012 talk to criticize Nvidia's stance toward Linux?",
+    "context": "In a 2012 talk, Linus Torvalds gave a middle-finger gesture and criticized Nvidia's stance toward Linux. ",
+    "answer": "He gave a middle-finger gesture and criticized Nvidia's stance toward Linux. "
+  },
+  {
+    "question": "What physics engine company did Nvidia acquire in February 2008?",
+    "context": "In February 2008, Nvidia acquired Ageia, developer of PhysX, a physics engine and physics processing unit. ",
+    "answer": "Ageia (developer of PhysX) "
+  },
+  {
+    "question": "What two US Senators criticized a proposed Nvidia facility in Shanghai in May 2025?",
+    "context": "In May 2025, U.S. senators Jim Banks and Elizabeth Warren criticized a proposed Nvidia facility in Shanghai, saying that it \"raises significant national security and economic security issues that warrant serious review.\" ",
+    "answer": "Jim Banks and Elizabeth Warren "
+  },
+  {
+    "question": "What two reasons did the European Commission state for opening a competition investigation into the proposed Arm takeover in October 2021?",
+    "context": "The Commission stated that Nvidia's acquisition could restrict competitors' access to Arm's products and provide Nvidia with too much internal information on its competitors due to their deals with Arm. ",
+    "answer": "It could restrict competitors' access to Arm's products and provide Nvidia with too much internal information on its competitors. "
+  },
+  {
+    "question": "What did Jensen Huang project Nvidia's data center revenue would reach by 2028?",
+    "context": "Huang projected that Al-driven infrastructure would drive Nvidia's data center revenue to \\$1 trillion by 2028. ",
+    "answer": "\\$1 trillion "
+  },
+  {
+    "question": "What two actions did the Cyberspace Administration of China (CAC) instruct companies to end regarding the RTX Pro 6000D in September 2025?",
+    "context": "The CAC instructed companies this week to end both testing and orders of the RTX Pro 6000D, which Nvidia had designed as a tailor-made product for China... ",
+    "answer": "Ending both testing and orders of the RTX Pro 6000D "
+  },
+  {
+    "question": "How many employees did Nvidia have in the fiscal year 2024?",
+    "context": "2024 60,922 29,760 29,600 ",
+    "answer": "29,600 "
+  },
+  {
+    "question": "What were the three types of open-source projects listed in the document?",
+    "context": "List of Nvidia open-source projects  Nouveau  NVDLA  PhysX  VDPAU  Vibrante  GROOT  garak ",
+    "answer": "Nouveau, NVDLA, PhysX, VDPAU, Vibrante, GROOT, and garak. "
+  },
+  {
+    "question": "What was the estimated amount of capital expenditures major technology companies were committing to for purchasing tens or hundreds of thousands of Nvidia GPUs in January 2024?",
+    "context": "Several major technology companies were purchasing tens or hundreds of thousands of GPUs for their data centers to run generative artificial intelligence projects;  simple arithmetic implied that they were committing to billions of dollars in capital expenditures. ",
+    "answer": "Billions of dollars "
+  },
+  {
+    "question": "What was the core business model of Nvidia that led it to avoid most investment and production costs?",
+    "context": "Nvidia uses external suppliers for all phases of manufacturing, including wafer fabrication, assembly, testing, and packaging.  Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing... ",
+    "answer": "Fabless manufacturing (using external suppliers for all phases of manufacturing) "
+  },
+  {
+    "question": "Who broke the deadlock among the founders by resigning first?",
+    "context": "Priem broke that deadlock by resigning first from Sun, effective December 31, 1992. ",
+    "answer": "Curtis Priem "
+  }
+]

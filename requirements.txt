@@ -1,0 +1,24 @@
+# requirements.txt
+boto3>=1.26.0
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+pandas>=1.5.0
+tqdm>=4.65.0
+# Configuration
+python-dotenv>=1.0.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# Optional but recommended
+tensorboard>=2.14.0
+accelerate>=0.20.0
+peft>=0.4.0
+bitsandbytes>=0.41.0
+rouge-score>=0.1.2
+nltk>=3.8.1
+scikit-learn>=1.0.2
+datasets>=2.12.0

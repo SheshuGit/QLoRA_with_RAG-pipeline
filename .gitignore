@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment Variables
+.env
+
+# Data & Models (large files)
+data/raw/*
+data/processed/*
+models/base/*
+models/finetuned/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/base/.gitkeep
+!models/finetuned/.gitkeep
+
+# Evaluation Results
+evaluation/results/*
+!evaluation/results/.gitkeep
+evaluation/metrics.json
+
+# Logs
+*.log
+logs/
+models/logs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# PyTorch
+*.pt
+*.pth
+*.ckpt
+
+# Hugging Face cache
+.cache/
+transformers_cache/

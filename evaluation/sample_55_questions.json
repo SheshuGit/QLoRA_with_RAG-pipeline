@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Where was Nvidia ranked on Forbes' Best Places to Work list in 2024?",
+    "context": "Nvidia was ranked #3 on Forbes' Best Places to Work list in 2014. ",
+    "answer": "#3 "
+  },
+  {
+    "question": "What family of open-source multimodal large language models did Nvidia introduce in October 2024?",
+    "context": "In October 2024, Nvidia introduced a family of open-source multimodal large language models called NVLM 1.0, which features a flagship version with 72 billion parameters... ",
+    "answer": "NVLM 1.0 "
+  },
+  {
+    "question": "When did Jensen Huang officially join the startup and become the CEO?",
+    "context": "Huang left LSI and officially joined Priem on February 17, which was also Huang's 30th birthday, while Malachowsky left Sun in early March. ",
+    "answer": "February 17 (Huang's 30th birthday) "
+  },
+  {
+    "question": "What was the magnitude of Nvidia's investment in Intel, announced in September 2025?",
+    "context": "On September 18th, 2025, Nvidia announced it would invest $5 billion in Intel, backing the struggling U.S. chipmaker... ",
+    "answer": "$5 billion "
+  },
+  {
+    "question": "What was the primary focus of the GeForce Partner Program (GPP) before it was canceled?",
+    "context": "The Nvidia GeForce Partner Program was a marketing program designed to provide partnering companies with benefits such as public relations support, video game bundling, and marketing development funds. ",
+    "answer": "To provide partnering companies with benefits such as public relations support, video game bundling, and marketing development funds. "
+  },
+  {
+    "question": "What is the name of the operating system for driverless cars developed by Nvidia as part of the Drive product line?",
+    "context": "The Drive PX-series is a high-performance computer platform aimed at autonomous driving through deep learning,  while Driveworks is an operating system for driverless cars. ",
+    "answer": "Driveworks "
+  },
+  {
+    "question": "What is the name of the enterprise platform designed by Nvidia for deep learning applications?",
+    "context": "DGX, an enterprise platform designed for deep learning applications ",
+    "answer": "DGX "
+  },
+  {
+    "question": "What was the median earnings for half of Nvidia employees in 2023?",
+    "context": "Half of Nvidia employees earned over $228,000 in 2023. ",
+    "answer": "Over $228,000 "
+  },
+  {
+    "question": "How many employees did Nvidia have in the fiscal year 2024?",
+    "context": "2024 60,922 29,760 29,600 ",
+    "answer": "29,600 "
+  },
+  {
+    "question": "What did Nvidia claim about the new RTX Studio laptops announced in May 2019 compared to a top-end MacBook Pro?",
+    "context": "The creators say that the new laptop is going to be seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro. ",
+    "answer": "The new laptop is seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro. "
+  },
+  {
+    "question": "Which workstation GPU brand did Nvidia announce it was retiring in October 2020?",
+    "context": "Also in October 2020, along with the release of the Nvidia RTX A6000, Nvidia announced it is retiring its workstation GPU brand Quadro, shifting its product name to Nvidia RTX for future products... ",
+    "answer": "Quadro "
+  },
+  {
+    "question": "What amount of shares of Nebius Group did Nvidia buy in November 2024?",
+    "context": "Also in November 2024, the company bought 1.2 million shares of Nebius Group. ",
+    "answer": "1.2 million shares "
+  },
+  {
+    "question": "In what month and year did Nvidia first surpass $4 trillion in market capitalization (briefly)?",
+    "context": "On July 10, 2025, Nvidia closed for the first time with a market cap above $4 trillion, after its market cap briefly touched and then retreated from that number during the previous day. ",
+    "answer": "July 2025 (on the previous day, July 9th) "
+  },
+  {
+    "question": "What Latin word is the name Nvidia derived from, and what does it mean?",
+    "context": "Both Priem  and Huang have taken credit for coming up with the name Nvidia,  from invidia, the Latin word for envy ",
+    "answer": " Invidia, the Latin word for envy "
+  },
+  {
+    "question": "What competing company was the only other startup to survive the late 1990s graphics acceleration boom along with Nvidia?",
+    "context": "Only two survived: Nvidia and ATI Technologies, the latter of which merged into AMD. ",
+    "answer": "ATI Technologies (later merged into AMD) "
+  },
+  {
+    "question": "What is the name of Nvidia's AI-powered healthcare software suite, which a collaboration with the Broad Institute was announced for?",
+    "context": "In September 2022, Nvidia announced a collaboration with the Broad Institute of MIT and Harvard related to the entire suite of Nvidia's Al-powered healthcare software suite called Clara, that includes Parabricks and MONAI. ",
+    "answer": "Clara "
+  },
+  {
+    "question": "What is the name of the multi-display business graphics processor in Nvidia's product families?",
+    "context": "NVS, a multi-display business graphics processor ",
+    "answer": "NVS "
+  },
+  {
+    "question": "What did Nvidia announce on May 12, 2022, regarding its GPU software?",
+    "context": "On May 12, 2022, Nvidia announced that they are opensourcing their GPU kernel modules. ",
+    "answer": "They are opensourcing their GPU kernel modules. "
+  },
+  {
+    "question": "Who is the managing partner of Square Wave Ventures and a director on Nvidia's board as of November 2024?",
+    "context": "Harvey C. Jones (managing partner of Square Wave Ventures) ",
+    "answer": "Harvey C. Jones "
+  },
+  {
+    "question": "What was the key feature of the GeForce 256 (NV10) that made it notable for consumer-level 3D hardware?",
+    "context": "In late 1999, Nvidia released the GeForce 256 (NV10), its first product expressly marketed as a GPU, which was most notable for introducing onboard transformation and lighting (T&L) to consumer-level 3D hardware. ",
+    "answer": "Introducing onboard transformation and lighting (T&L) "
+  },
+  {
+    "question": "What was the initial amount of money the company started with?",
+    "context": "With $40,000 in the bank, the company was born. ",
+    "answer": "$40,000 "
+  },
+  {
+    "question": "Who is the former director of NASA Johnson Space Center and a director on Nvidia's board as of November 2024?",
+    "context": "Ellen Ochoa (former director of NASA Johnson Space Center) ",
+    "answer": "Ellen Ochoa "
+  },
+  {
+    "question": "What was the name of the first of the two new Nvidia headquarters buildings in Santa Clara, California, completed in 2017?",
+    "context": "Aerial view of Endeavor, the first of the two new Nvidia headquarters buildings, in Santa Clara, California, in 2017 ",
+    "answer": "Endeavor "
+  },
+  {
+    "question": "Which of Nvidia's open-source projects allows for proper power management and GPU reclocking for Turing and newer graphics card generations?",
+    "context": "Support for Nvidia's firmware was implemented in nouveau in 2023, which allows proper power management and GPU reclocking for Turing and newer graphics card generations. ",
+    "answer": "Nouveau "
+  },
+  {
+    "question": "What is the Israeli company that specializes in AI storage management and collaborates closely with Nvidia for the Bet Yehoshua server farm?",
+    "context": "A server farm dedicated to autonomous Al was also announced in October 2025, as a collaboration between SDS Schönfeld... and VAST Data, an Israeli company specializing in Al storage management that collaborates closely with Nvidia. ",
+    "answer": "VAST Data "
+  },
+  {
+    "question": "What is the name of the motherboard chipset created by Nvidia for Intel and AMD microprocessors?",
+    "context": "nForce, a motherboard chipset created by Nvidia for Intel (Celeron, Pentium and Core 2) and AMD (Athlon and Duron) microprocessors ",
+    "answer": "nForce "
+  },
+  {
+    "question": "What are the three sizes of the Llama-3.1-Nemotron-Ultra-253B-v1 model released in April 2025?",
+    "context": "It comes in three sizes: Nano, Super and Ultra. ",
+    "answer": "Nano, Super and Ultra "
+  },
+  {
+    "question": "What did the antitrust investigation follow an open letter about from OpenAI employees?",
+    "context": "This development followed an open letter from OpenAl employees expressing concerns about the rapid Al advancements and lack of oversight. ",
+    "answer": "Concerns about the rapid AI advancements and lack of oversight "
+  },
+  {
+    "question": "What was the purpose of the September 2025 partnership between Nvidia and OpenAI?",
+    "context": "On September 22, 2025, Nvidia and OpenAl announced a partnership wherein Nvidia would invest $100 billion into OpenAl, and OpenAl would use Nvidia chips and systems in new data centers. ",
+    "answer": "Nvidia would invest $100 billion into OpenAI, and OpenAI would use Nvidia chips and systems in new data centers. "
+  },
+  {
+    "question": "What software platform and API, developed with an investment of over a billion dollars, enabled GPUs to run massively parallel programs?",
+    "context": "In the early 2000s, the company invested over a billion dollars to develop CUDA, a software platform and API that enabled GPUs to run massively parallel programs for a broad range of compute-intensive applications. ",
+    "answer": "CUDA "
+  },
+  {
+    "question": "What was the name of the new chip based on the Blackwell architecture that Nvidia was developing to succeed the H20 in the Chinese market?",
+    "context": "The production suspension occurred as Nvidia was developing the B30A, a new chip based on its Blackwell architecture intended to succeed the H20 in the Chinese market. ",
+    "answer": "B30A "
+  },
+  {
+    "question": "Which of Nvidia's hardware was in such high demand by September 2023 that other tech giants were begging for supply?",
+    "context": "By then, Nvidia's H100 GPUs were in such demand that even other tech giants were beholden to how Nvidia allocated supply. ",
+    "answer": "H100 GPUs "
+  },
+  {
+    "question": "Who was the CEO of Anthropic who engaged in a public dispute with Jensen Huang in July 2025 over AI regulation?",
+    "context": "In July 2025, a public dispute emerged between Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei over Al regulation and industry practices. ",
+    "answer": "Dario Amodei "
+  },
+  {
+    "question": "Who is the co-founder of Nvidia who holds the title of Nvidia fellow as of March 2024?",
+    "context": "Chris Malachowsky, founder and Nvidia fellow ",
+    "answer": "Chris Malachowsky "
+  },
+  {
+    "question": "What was the motivation behind the French Competition Authority's raid on Nvidia's offices in September 2023?",
+    "context": "The raid, authorized by a judge, was part of an investigation into suspected anti-competitive practices in the graphics card sector. ",
+    "answer": "Suspected anti-competitive practices in the graphics card sector "
+  },
+  {
+    "question": "What did the proprietary nature of Nvidia's drivers generate dissatisfaction about within free-software communities?",
+    "context": "The proprietary nature of Nvidia's drivers has generated dissatisfaction within free-software communities. ",
+    "answer": "The proprietary nature of Nvidia's drivers "
+  },
+  {
+    "question": "What is the name of Nvidia's generative AI model used by Getty Images, which is available on the Picasso model library?",
+    "context": "Getty will use Nvidia's Edify model, which is available on Nvidia's generative Al model library Picasso. ",
+    "answer": "Edify model "
+  },
+  {
+    "question": "What was the largest one-day loss in market capitalization for a U.S. company in history, experienced by Nvidia in January 2025?",
+    "context": "In January 2025, Nvidia saw the largest one-day loss in market capitalization for a U.S. company in history at $600 billion. ",
+    "answer": "$600 billion "
+  },
+  {
+    "question": "What did Nvidia later clarify regarding the promised specific driver modification for the GTX 970?",
+    "context": "However, Nvidia later clarified that the promise had been a miscommunication and there would be no specific driver update for the GTX 970. ",
+    "answer": "The promise was a miscommunication and there would be no specific driver update for the GTX 970. "
+  },
+  {
+    "question": "What memory type did the GTX 1080 and GTX 1070 use, respectively?",
+    "context": "The models incorporate GDDR5X and GDDR5 memory respectively, and use a 16 nm manufacturing process. ",
+    "answer": "GDDR5X (GTX 1080) and GDDR5 (GTX 1070) "
+  },
+  {
+    "question": "What company did Nvidia acquire in July 2025?",
+    "context": "In July 2025, it was announced that Nvidia had acquired CentL, a Canadian-based Al firm. ",
+    "answer": "CentL, a Canadian-based AI firm "
+  },
+  {
+    "question": "What was Nvidia's unofficial company motto for many years?",
+    "context": "The sense of impending failure became so pervasive that it gave rise to Nvidia's unofficial company motto: Our company is thirty days from going out of business. ",
+    "answer": "Our company is thirty days from going out of business. "
+  },
+  {
+    "question": "Who are the top three largest shareholders of Nvidia in early 2024?",
+    "context": "The 10 largest shareholders of Nvidia in early 2024 were:  The Vanguard Group (8.280%)  BlackRock (5.623%)  Fidelity Investments (5.161%) ",
+    "answer": "The Vanguard Group, BlackRock, and Fidelity Investments "
+  },
+  {
+    "question": "What was the percentage decline in Nvidia's annual revenue for the fiscal year 2020 over the previous fiscal cycle?",
+    "context": "For the fiscal year 2020, Nvidia reported earnings of US$2.796 billion, with an annual revenue of US$10.918 billion, a decline of 6.8% over the previous fiscal cycle. ",
+    "answer": "6.8% decline "
+  },
+  {
+    "question": "What was the net income reported by Nvidia for the fiscal year 2024 (in millions of US dollars)?",
+    "context": "2024 60,922 29,760 29,600 ",
+    "answer": "US$29,760 million "
+  },
+  {
+    "question": "What is the product family name for a range of data processing units inherited from the Mellanox Technologies acquisition?",
+    "context": "BlueField, a range of data processing units, initially inherited from their acquisition of Mellanox Technologies ",
+    "answer": "BlueField "
+  },
+  {
+    "question": "What technology did the official Nvidia-developed patch for Minecraft RTX add to the Windows 10 version of the game?",
+    "context": "In August 2019, Nvidia announced Minecraft RTX, an official Nvidia-developed patch for the game Minecraft adding real-time DXR ray tracing exclusively to the Windows 10 version of the game. ",
+    "answer": "Real-time DXR ray tracing "
+  },
+  {
+    "question": "What did Nvidia's acquisition of Mellanox Technologies substantially expand its footprint in?",
+    "context": "On March 11, 2019, Nvidia announced a deal to buy Mellanox Technologies for $6.9 billion  to substantially expand its footprint in the high-performance computing market. ",
+    "answer": "The high-performance computing market "
+  },
+  {
+    "question": "What was the primary difference in the architecture of the GeForce GTX 970's memory compared to its advertised 4 GB?",
+    "context": "Additionally, it was revealed that the card was designed to access its memory as a 3.5 GB section, plus a 0.5 GB one, access to the latter being 7 times slower than the first one. ",
+    "answer": "It was designed to access its memory as a 3.5 GB high-speed section and a 0.5 GB slow-speed section. "
+  },
+  {
+    "question": "What were the three types of open-source projects listed in the document?",
+    "context": "List of Nvidia open-source projects  Nouveau  NVDLA  PhysX  VDPAU  Vibrante  GROOT  garak ",
+    "answer": "Nouveau, NVDLA, PhysX, VDPAU, Vibrante, GROOT, and garak. "
+  },
+  {
+    "question": "What was the official name of the open-source ventilator developed by Nvidia in May 2020?",
+    "context": "In May 2020, Nvidia developed an open-source ventilator to address the shortage resulting from the global coronavirus pandemic.  *Note: The document does not provide a specific name, only describes it as an open-source ventilator.*",
+    "answer": "An open-source ventilator (no specific name provided in the text) "
+  },
+  {
+    "question": "How did Nvidia's second-quarter revenue forecast for May 2025 fall short of market estimates?",
+    "context": "On May 28, 2025, Nvidia's second-quarter revenue forecast fell short of market estimates due to U.S. export restrictions impacting Al chip sales to China... ",
+    "answer": "It fell short of market estimates due to U.S. export restrictions impacting AI chip sales to China. "
+  },
+  {
+    "question": "How did Nvidia's market capitalization on July 10, 2025, compare to the combined value of all publicly traded companies in the United Kingdom?",
+    "context": "At that point, Nvidia was worth more than the combined value of all publicly traded companies in the United Kingdom. ",
+    "answer": "Nvidia was worth more than the combined value of all publicly traded companies in the United Kingdom. "
+  },
+  {
+    "question": "What two Valve games did Nvidia port to its Nvidia Shield Tablet in 2014?",
+    "context": "In 2014, Nvidia ported the Valve games Portal and Half Life 2 to its Nvidia Shield Tablet as Lightspeed Studio. ",
+    "answer": "Portal and Half Life 2 "
+  },
+  {
+    "question": "What is the name of Nvidia's design standard for sufficiently thin laptops (under 0.8 inches) that include their GPUs?",
+    "context": "Laptops that include these GPUs and are sufficiently thin - as of late 2017, under 0.8 inches (20 mm) - have been designated as meeting Nvidia's Max-Q design standard. ",
+    "answer": "Max-Q design standard "
+  }
+]
