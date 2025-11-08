@@ -1,9 +1,3 @@
-Absolutely ✅ Here’s a **professional, polished `README.md`** for your project — perfect for GitHub, portfolio, or submission.
-It’s designed in a **clean industrial style**, with badges, structure, setup steps, and references.
-
----
-
-````markdown
 # 🚀 Retrieval-Augmented Generation (RAG) + Fine-Tuning with QLoRA  
 ### Domain-Specific Question Answering System (Case Study: Nvidia Corporation)
 
@@ -93,9 +87,7 @@ The project implements:
                 │ Fine-tuned FLAN-T5      │
                 │   Domain Adaptation     │
                 └─────────────────────────┘
-````
 
----
 
 ## ⚙️ Setup & Installation
 
